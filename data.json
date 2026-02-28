@@ -1,0 +1,5315 @@
+[
+  {
+    "id": "menusa_0001",
+    "title": "Rendang Daging Sapi",
+    "origin_region": "Sumatera Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 30,
+    "cook_time": 240,
+    "total_time": 270,
+    "difficulty": "sulit",
+    "ingredients": [
+      {
+        "name": "daging sapi (paha/sandung lamur)",
+        "quantity": 1000,
+        "unit": "g",
+        "preparation": "potong kotak besar"
+      },
+      {
+        "name": "santan kental",
+        "quantity": 1000,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "santan encer",
+        "quantity": 1000,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "cabai merah keriting",
+        "quantity": 12,
+        "unit": "buah",
+        "preparation": null
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 12,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 6,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "jahe",
+        "quantity": 30,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "lengkuas",
+        "quantity": 40,
+        "unit": "g",
+        "preparation": "memarkan"
+      },
+      {
+        "name": "serai",
+        "quantity": 2,
+        "unit": "batang",
+        "preparation": "memarkan"
+      },
+      {
+        "name": "daun jeruk",
+        "quantity": 6,
+        "unit": "lembar",
+        "preparation": null
+      },
+      {
+        "name": "asam kandis (opsional)",
+        "quantity": 2,
+        "unit": "buah",
+        "preparation": null
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Haluskan cabai, bawang merah, bawang putih, jahe (boleh blender dengan sedikit santan encer)."
+      },
+      {
+        "number": 2,
+        "text": "Masukkan bumbu halus ke wajan besar. Tambahkan santan encer, serai, lengkuas, daun jeruk, dan asam kandis."
+      },
+      {
+        "number": 3,
+        "text": "Masak dengan api sedang sambil diaduk sampai mendidih dan bumbu matang (tidak langu)."
+      },
+      {
+        "number": 4,
+        "text": "Masukkan daging. Masak pelan hingga daging mulai empuk dan kuah menyusut."
+      },
+      {
+        "number": 5,
+        "text": "Tambahkan santan kental. Kecilkan api, aduk berkala agar santan tidak pecah."
+      },
+      {
+        "number": 6,
+        "text": "Teruskan memasak hingga minyak keluar, warna menggelap, dan bumbu melekat kering pada daging. Koreksi garam."
+      }
+    ],
+    "tags": [
+      "pedas",
+      "santan",
+      "daging"
+    ],
+    "categories": [
+      "masakan utama"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "wajan besar",
+      "spatula",
+      "kompor"
+    ],
+    "notes": "Api kecil dan aduk berkala adalah kunci agar santan tidak pecah dan hasil kering berminyak.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0002",
+    "title": "Mie Aceh (Goreng/Basah)",
+    "origin_region": "Aceh",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "mie kuning basah",
+        "quantity": 500,
+        "unit": "g",
+        "preparation": "seduh sebentar, tiriskan"
+      },
+      {
+        "name": "daging sapi atau udang (opsional)",
+        "quantity": 200,
+        "unit": "g",
+        "preparation": "iris tipis"
+      },
+      {
+        "name": "kol",
+        "quantity": 200,
+        "unit": "g",
+        "preparation": "iris"
+      },
+      {
+        "name": "tauge",
+        "quantity": 150,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "tomat",
+        "quantity": 2,
+        "unit": "buah",
+        "preparation": "potong"
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 8,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 4,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "cabai merah",
+        "quantity": 6,
+        "unit": "buah",
+        "preparation": null
+      },
+      {
+        "name": "kari bubuk",
+        "quantity": 2,
+        "unit": "sdm",
+        "preparation": null
+      },
+      {
+        "name": "jintan (opsional)",
+        "quantity": 0.5,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "kecap manis",
+        "quantity": 2,
+        "unit": "sdm",
+        "preparation": null
+      },
+      {
+        "name": "kaldu/air",
+        "quantity": 250,
+        "unit": "ml",
+        "preparation": "untuk versi basah"
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Haluskan bawang merah, bawang putih, cabai. Tumis sampai harum."
+      },
+      {
+        "number": 2,
+        "text": "Masukkan kari bubuk (dan jintan bila pakai), aduk hingga bumbu matang."
+      },
+      {
+        "number": 3,
+        "text": "Masukkan daging/udang, masak sampai berubah warna."
+      },
+      {
+        "number": 4,
+        "text": "Masukkan kol, tomat. Tambahkan kecap, garam. Untuk versi basah, tuang kaldu/air."
+      },
+      {
+        "number": 5,
+        "text": "Masukkan mie dan tauge. Aduk cepat sampai rata dan mie menyerap bumbu."
+      },
+      {
+        "number": 6,
+        "text": "Koreksi rasa, angkat. Sajikan hangat."
+      }
+    ],
+    "tags": [
+      "berbumbu",
+      "mie"
+    ],
+    "categories": [
+      "masakan utama"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "wajan",
+      "spatula"
+    ],
+    "notes": "Aduk cepat setelah mie masuk agar tidak lembek dan bumbu merata.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0003",
+    "title": "Gulai Ikan Patin",
+    "origin_region": "Jambi",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 25,
+    "total_time": 40,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ikan patin",
+        "quantity": 700,
+        "unit": "g",
+        "preparation": "potong, lumuri sedikit garam dan jeruk nipis"
+      },
+      {
+        "name": "santan",
+        "quantity": 800,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 8,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 4,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "cabai merah",
+        "quantity": 5,
+        "unit": "buah",
+        "preparation": null
+      },
+      {
+        "name": "kunyit",
+        "quantity": 20,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "jahe",
+        "quantity": 15,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "lengkuas",
+        "quantity": 20,
+        "unit": "g",
+        "preparation": "memarkan"
+      },
+      {
+        "name": "serai",
+        "quantity": 1,
+        "unit": "batang",
+        "preparation": "memarkan"
+      },
+      {
+        "name": "daun salam",
+        "quantity": 2,
+        "unit": "lembar",
+        "preparation": null
+      },
+      {
+        "name": "asam jawa",
+        "quantity": 1,
+        "unit": "sdm",
+        "preparation": "larutkan dengan sedikit air"
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Haluskan bawang merah, bawang putih, cabai, kunyit, jahe."
+      },
+      {
+        "number": 2,
+        "text": "Tumis bumbu halus hingga harum. Masukkan serai, lengkuas, daun salam."
+      },
+      {
+        "number": 3,
+        "text": "Tuang santan perlahan sambil diaduk sampai mendidih kecil."
+      },
+      {
+        "number": 4,
+        "text": "Masukkan ikan patin. Masak api kecil hingga ikan matang."
+      },
+      {
+        "number": 5,
+        "text": "Tambahkan larutan asam jawa, koreksi garam. Masak 2–3 menit, angkat."
+      }
+    ],
+    "tags": [
+      "santan",
+      "ikan"
+    ],
+    "categories": [
+      "masakan utama"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "panci",
+      "spatula"
+    ],
+    "notes": "Aduk santan sebelum ikan masuk agar tidak pecah; setelah ikan masuk, aduk pelan.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0004",
+    "title": "Pempek Kapal Selam",
+    "origin_region": "Sumatera Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 45,
+    "cook_time": 30,
+    "total_time": 75,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ikan tenggiri giling",
+        "quantity": 400,
+        "unit": "g",
+        "preparation": "dingin"
+      },
+      {
+        "name": "tepung sagu/tapioka",
+        "quantity": 500,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "air es",
+        "quantity": 250,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "garam",
+        "quantity": 2,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "gula",
+        "quantity": 1,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 3,
+        "unit": "siung",
+        "preparation": "haluskan"
+      },
+      {
+        "name": "telur ayam",
+        "quantity": 6,
+        "unit": "butir",
+        "preparation": "untuk isi"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Campur ikan giling, garam, gula, bawang putih. Tuang air es sedikit-sedikit hingga adonan lembut."
+      },
+      {
+        "number": 2,
+        "text": "Masukkan tepung sagu bertahap, aduk sampai bisa dipulung (jangan diuleni keras)."
+      },
+      {
+        "number": 3,
+        "text": "Bentuk adonan seperti kantong, isi 1 butir telur, rapatkan."
+      },
+      {
+        "number": 4,
+        "text": "Rebus air banyak hingga mendidih. Masukkan pempek, rebus sampai mengapung dan 5 menit tambahan."
+      },
+      {
+        "number": 5,
+        "text": "Angkat, tiriskan. Sajikan dengan kuah cuko (dibuat terpisah)."
+      }
+    ],
+    "tags": [
+      "ikan",
+      "kukus/rebus"
+    ],
+    "categories": [
+      "makanan utama",
+      "jajanan"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "panci besar",
+      "sendok",
+      "wadah adonan"
+    ],
+    "notes": "Kunci pempek kenyal: adonan dingin dan tidak diuleni berlebihan.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0005",
+    "title": "Tekwan Palembang",
+    "origin_region": "Sumatera Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 30,
+    "cook_time": 30,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ikan tenggiri giling",
+        "quantity": 300,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "tepung tapioka",
+        "quantity": 250,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 3,
+        "unit": "siung",
+        "preparation": "haluskan"
+      },
+      {
+        "name": "garam",
+        "quantity": 1.5,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "kaldu ikan/air",
+        "quantity": 1500,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "jamur kuping",
+        "quantity": 30,
+        "unit": "g",
+        "preparation": "rendam, iris"
+      },
+      {
+        "name": "bengkuang",
+        "quantity": 150,
+        "unit": "g",
+        "preparation": "serut"
+      },
+      {
+        "name": "daun bawang",
+        "quantity": 2,
+        "unit": "batang",
+        "preparation": "iris"
+      },
+      {
+        "name": "seledri",
+        "quantity": 2,
+        "unit": "batang",
+        "preparation": "iris"
+      },
+      {
+        "name": "merica",
+        "quantity": 0.5,
+        "unit": "sdt",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Buat adonan tekwan: campur ikan, bawang putih, garam, lalu masukkan tapioka sampai bisa dipulung."
+      },
+      {
+        "number": 2,
+        "text": "Didihkan air. Bentuk adonan dengan sendok (bulat kecil), rebus sampai mengapung. Tiriskan."
+      },
+      {
+        "number": 3,
+        "text": "Didihkan kaldu ikan/air. Masukkan merica, koreksi garam."
+      },
+      {
+        "number": 4,
+        "text": "Masukkan jamur kuping dan bengkuang, masak 3–5 menit."
+      },
+      {
+        "number": 5,
+        "text": "Masukkan tekwan, daun bawang, seledri. Angkat dan sajikan."
+      }
+    ],
+    "tags": [
+      "sup",
+      "ikan"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "panci",
+      "sendok"
+    ],
+    "notes": "Kaldu ikan membuat rasa lebih ‘Palembang’. Jika tidak ada, gunakan air dan tambahkan sedikit ikan rebus.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0006",
+    "title": "Arsik Ikan Mas",
+    "origin_region": "Sumatera Utara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 25,
+    "cook_time": 35,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ikan mas",
+        "quantity": 800,
+        "unit": "g",
+        "preparation": "bersihkan, kerat"
+      },
+      {
+        "name": "andaliman (opsional tapi khas)",
+        "quantity": 1,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "kunyit",
+        "quantity": 25,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 10,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 4,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "jahe",
+        "quantity": 15,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "serai",
+        "quantity": 2,
+        "unit": "batang",
+        "preparation": "memarkan"
+      },
+      {
+        "name": "daun bawang",
+        "quantity": 2,
+        "unit": "batang",
+        "preparation": "potong 3 cm"
+      },
+      {
+        "name": "asam cikala/kecombrang muda (opsional)",
+        "quantity": 1,
+        "unit": "buah",
+        "preparation": "iris"
+      },
+      {
+        "name": "air",
+        "quantity": 600,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Haluskan bawang merah, bawang putih, kunyit, jahe (dan andaliman bila pakai)."
+      },
+      {
+        "number": 2,
+        "text": "Susun ikan dalam panci. Olesi/tuang bumbu halus merata."
+      },
+      {
+        "number": 3,
+        "text": "Tambahkan serai, daun bawang, dan kecombrang/asam cikala."
+      },
+      {
+        "number": 4,
+        "text": "Tuang air, masak api sedang sampai mendidih, lalu kecilkan."
+      },
+      {
+        "number": 5,
+        "text": "Masak sampai kuah menyusut dan bumbu meresap. Koreksi garam, angkat."
+      }
+    ],
+    "tags": [
+      "ikan",
+      "berbumbu"
+    ],
+    "categories": [
+      "masakan utama"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "panci"
+    ],
+    "notes": "Jangan sering dibalik agar ikan tidak hancur; goyangkan panci perlahan bila perlu.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0007",
+    "title": "Soto Banjar",
+    "origin_region": "Kalimantan Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 20,
+    "cook_time": 60,
+    "total_time": 80,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam (kampung lebih wangi)",
+        "quantity": 1,
+        "unit": "ekor",
+        "preparation": "potong"
+      },
+      {
+        "name": "air",
+        "quantity": 2000,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 10,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 5,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "jahe",
+        "quantity": 20,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "pala bubuk",
+        "quantity": 0.25,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "kayu manis (opsional)",
+        "quantity": 1,
+        "unit": "batang",
+        "preparation": null
+      },
+      {
+        "name": "cengkeh (opsional)",
+        "quantity": 3,
+        "unit": "butir",
+        "preparation": null
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      },
+      {
+        "name": "bihun",
+        "quantity": 200,
+        "unit": "g",
+        "preparation": "seduh"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus ayam hingga matang. Angkat ayam, suwir. Saring kaldu."
+      },
+      {
+        "number": 2,
+        "text": "Haluskan bawang merah, bawang putih, jahe. Tumis sampai harum."
+      },
+      {
+        "number": 3,
+        "text": "Masukkan tumisan ke kaldu. Tambahkan pala, kayu manis, cengkeh (bila pakai)."
+      },
+      {
+        "number": 4,
+        "text": "Masak 10–15 menit. Koreksi garam."
+      },
+      {
+        "number": 5,
+        "text": "Sajikan: bihun + suwiran ayam, siram kuah soto."
+      }
+    ],
+    "tags": [
+      "soto",
+      "ayam"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "panci",
+      "saringan"
+    ],
+    "notes": "Bumbu rempah hangat (pala) adalah ciri khas kuah soto Banjar.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0008",
+    "title": "Ayam Cincane (Ayam Bakar Samarinda)",
+    "origin_region": "Kalimantan Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 1,
+        "unit": "ekor",
+        "preparation": "belah dan pipihkan"
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 8,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 4,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "cabai merah",
+        "quantity": 6,
+        "unit": "buah",
+        "preparation": null
+      },
+      {
+        "name": "kemiri",
+        "quantity": 4,
+        "unit": "butir",
+        "preparation": "sangrai"
+      },
+      {
+        "name": "ketumbar",
+        "quantity": 1,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "gula merah",
+        "quantity": 1,
+        "unit": "sdm",
+        "preparation": "serut"
+      },
+      {
+        "name": "asam jawa",
+        "quantity": 1,
+        "unit": "sdm",
+        "preparation": "larutkan"
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Haluskan bawang merah, bawang putih, cabai, kemiri, ketumbar."
+      },
+      {
+        "number": 2,
+        "text": "Tumis bumbu hingga harum. Tambahkan gula merah dan larutan asam jawa, masak sampai mengental."
+      },
+      {
+        "number": 3,
+        "text": "Lumuri ayam dengan bumbu. Diamkan 15 menit."
+      },
+      {
+        "number": 4,
+        "text": "Panggang/bakar ayam sambil diolesi sisa bumbu hingga matang dan berkilau."
+      },
+      {
+        "number": 5,
+        "text": "Koreksi rasa (garam), sajikan hangat."
+      }
+    ],
+    "tags": [
+      "bakar",
+      "ayam"
+    ],
+    "categories": [
+      "masakan utama"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "wajan",
+      "alat panggang"
+    ],
+    "notes": "Oles berulang agar bumbu membentuk glaze dan wangi asapnya keluar.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0009",
+    "title": "Ayam Taliwang",
+    "origin_region": "Nusa Tenggara Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 25,
+    "total_time": 45,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam kampung muda",
+        "quantity": 1,
+        "unit": "ekor",
+        "preparation": "belah dua"
+      },
+      {
+        "name": "cabai merah",
+        "quantity": 8,
+        "unit": "buah",
+        "preparation": null
+      },
+      {
+        "name": "cabai rawit (opsional)",
+        "quantity": 8,
+        "unit": "buah",
+        "preparation": null
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 8,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 4,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "terasi",
+        "quantity": 0.5,
+        "unit": "sdt",
+        "preparation": "bakar sebentar"
+      },
+      {
+        "name": "gula merah",
+        "quantity": 1,
+        "unit": "sdm",
+        "preparation": null
+      },
+      {
+        "name": "jeruk limau/nipis",
+        "quantity": 1,
+        "unit": "buah",
+        "preparation": "ambil airnya"
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus ayam sebentar (opsional) agar cepat empuk, tiriskan."
+      },
+      {
+        "number": 2,
+        "text": "Haluskan cabai, bawang, terasi. Tumis sampai harum."
+      },
+      {
+        "number": 3,
+        "text": "Tambahkan gula merah, garam, air jeruk. Aduk rata."
+      },
+      {
+        "number": 4,
+        "text": "Lumuri ayam dengan bumbu. Diamkan 10–15 menit."
+      },
+      {
+        "number": 5,
+        "text": "Bakar ayam hingga matang sambil diolesi bumbu. Sajikan."
+      }
+    ],
+    "tags": [
+      "pedas",
+      "bakar"
+    ],
+    "categories": [
+      "masakan utama"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "wajan",
+      "alat panggang"
+    ],
+    "notes": "Bumbu harus matang (tidak langu) sebelum dipakai oles agar aroma sedap keluar.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0010",
+    "title": "Ayam Betutu (Sederhana)",
+    "origin_region": "Bali",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 30,
+    "cook_time": 120,
+    "total_time": 150,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam utuh",
+        "quantity": 1,
+        "unit": "ekor",
+        "preparation": null
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 12,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 6,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "cabai merah",
+        "quantity": 6,
+        "unit": "buah",
+        "preparation": null
+      },
+      {
+        "name": "kunyit",
+        "quantity": 25,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "jahe",
+        "quantity": 20,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "kencur (opsional)",
+        "quantity": 10,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "serai",
+        "quantity": 2,
+        "unit": "batang",
+        "preparation": "memarkan"
+      },
+      {
+        "name": "daun salam",
+        "quantity": 3,
+        "unit": "lembar",
+        "preparation": null
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Haluskan bawang merah, bawang putih, cabai, kunyit, jahe, kencur (jika ada)."
+      },
+      {
+        "number": 2,
+        "text": "Tumis bumbu halus hingga harum. Tambahkan serai dan daun salam."
+      },
+      {
+        "number": 3,
+        "text": "Lumuri ayam (luar-dalam) dengan bumbu, beri garam secukupnya."
+      },
+      {
+        "number": 4,
+        "text": "Masak ayam dalam panci tertutup dengan sedikit air (±200 ml) api kecil 60–90 menit hingga empuk."
+      },
+      {
+        "number": 5,
+        "text": "Panggang sebentar (opsional) agar kulit lebih wangi. Sajikan."
+      }
+    ],
+    "tags": [
+      "rempah",
+      "ayam"
+    ],
+    "categories": [
+      "masakan utama"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "wajan",
+      "panci bertutup",
+      "panggang (opsional)"
+    ],
+    "notes": "Masak api kecil lama membuat bumbu meresap sampai ke serat ayam.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0011",
+    "title": "Sate Lilit Ikan",
+    "origin_region": "Bali",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 25,
+    "cook_time": 15,
+    "total_time": 40,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ikan (tenggiri/tuna) cincang halus",
+        "quantity": 400,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "kelapa parut",
+        "quantity": 100,
+        "unit": "g",
+        "preparation": "sangrai ringan"
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 6,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 3,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "cabai merah",
+        "quantity": 3,
+        "unit": "buah",
+        "preparation": null
+      },
+      {
+        "name": "kunyit",
+        "quantity": 10,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "serai",
+        "quantity": 1,
+        "unit": "batang",
+        "preparation": "haluskan bagian putihnya"
+      },
+      {
+        "name": "garam",
+        "quantity": 1,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "tusuk serai/bambu",
+        "quantity": 10,
+        "unit": "batang",
+        "preparation": "untuk melilit"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Haluskan bawang merah, bawang putih, cabai, kunyit, dan serai."
+      },
+      {
+        "number": 2,
+        "text": "Campur ikan, bumbu halus, kelapa parut, garam. Aduk rata."
+      },
+      {
+        "number": 3,
+        "text": "Ambil adonan, lilitkan memanjang pada batang serai/bambu."
+      },
+      {
+        "number": 4,
+        "text": "Panggang di atas bara/pan grill sambil dibalik sampai matang."
+      },
+      {
+        "number": 5,
+        "text": "Sajikan hangat."
+      }
+    ],
+    "tags": [
+      "sate",
+      "ikan"
+    ],
+    "categories": [
+      "lauk"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "alat panggang"
+    ],
+    "notes": "Kelapa sangrai memberi aroma khas dan membantu adonan ‘set’ saat dipanggang.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0012",
+    "title": "Coto Makassar",
+    "origin_region": "Sulawesi Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 25,
+    "cook_time": 90,
+    "total_time": 115,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging sapi",
+        "quantity": 600,
+        "unit": "g",
+        "preparation": "potong"
+      },
+      {
+        "name": "air",
+        "quantity": 2500,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "kacang tanah",
+        "quantity": 80,
+        "unit": "g",
+        "preparation": "sangrai, haluskan"
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 10,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 5,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "ketumbar",
+        "quantity": 1,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "jintan (opsional)",
+        "quantity": 0.5,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "serai",
+        "quantity": 2,
+        "unit": "batang",
+        "preparation": "memarkan"
+      },
+      {
+        "name": "daun salam",
+        "quantity": 2,
+        "unit": "lembar",
+        "preparation": null
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus daging sampai empuk. Angkat daging, iris. Simpan kaldu."
+      },
+      {
+        "number": 2,
+        "text": "Haluskan bawang merah, bawang putih, ketumbar (dan jintan bila pakai). Tumis hingga harum."
+      },
+      {
+        "number": 3,
+        "text": "Masukkan tumisan ke kaldu. Tambahkan serai dan daun salam."
+      },
+      {
+        "number": 4,
+        "text": "Masukkan kacang tanah halus. Aduk hingga kuah sedikit kental."
+      },
+      {
+        "number": 5,
+        "text": "Masukkan irisan daging, masak 10 menit. Koreksi garam, sajikan."
+      }
+    ],
+    "tags": [
+      "berkuah",
+      "daging"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "panci",
+      "wajan"
+    ],
+    "notes": "Kacang sangrai memberi body kuah dan aroma khas.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0013",
+    "title": "Ikan Woku Belanga",
+    "origin_region": "Sulawesi Utara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ikan (kakap/cakalang)",
+        "quantity": 700,
+        "unit": "g",
+        "preparation": "potong"
+      },
+      {
+        "name": "tomat",
+        "quantity": 2,
+        "unit": "buah",
+        "preparation": "potong"
+      },
+      {
+        "name": "daun kemangi",
+        "quantity": 1,
+        "unit": "ikat",
+        "preparation": null
+      },
+      {
+        "name": "daun bawang",
+        "quantity": 2,
+        "unit": "batang",
+        "preparation": "iris"
+      },
+      {
+        "name": "cabai rawit",
+        "quantity": 10,
+        "unit": "buah",
+        "preparation": "sesuai selera"
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 8,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 3,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "kunyit",
+        "quantity": 10,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "jahe",
+        "quantity": 10,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "air",
+        "quantity": 400,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Haluskan bawang merah, bawang putih, kunyit, jahe."
+      },
+      {
+        "number": 2,
+        "text": "Tumis bumbu halus hingga harum."
+      },
+      {
+        "number": 3,
+        "text": "Masukkan tomat dan cabai rawit, aduk 1–2 menit."
+      },
+      {
+        "number": 4,
+        "text": "Masukkan ikan dan air. Masak hingga ikan matang."
+      },
+      {
+        "number": 5,
+        "text": "Masukkan daun bawang dan kemangi, koreksi garam, angkat."
+      }
+    ],
+    "tags": [
+      "pedas",
+      "aromatik",
+      "ikan"
+    ],
+    "categories": [
+      "masakan utama"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "wajan/panci"
+    ],
+    "notes": "Kemangi dimasukkan terakhir agar wangi segar tidak hilang.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0014",
+    "title": "Tinutuan (Bubur Manado)",
+    "origin_region": "Sulawesi Utara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 15,
+    "cook_time": 45,
+    "total_time": 60,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "beras",
+        "quantity": 250,
+        "unit": "g",
+        "preparation": "cuci"
+      },
+      {
+        "name": "air",
+        "quantity": 2000,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "labu kuning",
+        "quantity": 300,
+        "unit": "g",
+        "preparation": "potong kecil"
+      },
+      {
+        "name": "jagung manis pipil",
+        "quantity": 150,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "bayam",
+        "quantity": 1,
+        "unit": "ikat",
+        "preparation": null
+      },
+      {
+        "name": "kangkung",
+        "quantity": 1,
+        "unit": "ikat",
+        "preparation": null
+      },
+      {
+        "name": "daun kemangi (opsional)",
+        "quantity": 1,
+        "unit": "genggam",
+        "preparation": null
+      },
+      {
+        "name": "garam",
+        "quantity": 1,
+        "unit": "sdt",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak beras dan air hingga menjadi bubur."
+      },
+      {
+        "number": 2,
+        "text": "Masukkan labu kuning dan jagung, masak sampai empuk dan bubur kental."
+      },
+      {
+        "number": 3,
+        "text": "Masukkan kangkung lalu bayam. Aduk sebentar."
+      },
+      {
+        "number": 4,
+        "text": "Tambahkan garam. Matikan api, masukkan kemangi bila pakai."
+      },
+      {
+        "number": 5,
+        "text": "Sajikan hangat."
+      }
+    ],
+    "tags": [
+      "sayur",
+      "bubur"
+    ],
+    "categories": [
+      "sarapan"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "panci"
+    ],
+    "notes": "Sayur dimasukkan terakhir agar warna dan tekstur tetap segar.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0015",
+    "title": "Binte Biluhuta (Milu Siram)",
+    "origin_region": "Gorontalo",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "jagung manis pipil",
+        "quantity": 400,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "ikan cakalang suwir (opsional)",
+        "quantity": 150,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "udang (opsional)",
+        "quantity": 150,
+        "unit": "g",
+        "preparation": "kupas"
+      },
+      {
+        "name": "air",
+        "quantity": 800,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 6,
+        "unit": "siung",
+        "preparation": "iris"
+      },
+      {
+        "name": "cabai rawit",
+        "quantity": 8,
+        "unit": "buah",
+        "preparation": "iris"
+      },
+      {
+        "name": "daun kemangi",
+        "quantity": 1,
+        "unit": "genggam",
+        "preparation": null
+      },
+      {
+        "name": "jeruk nipis",
+        "quantity": 1,
+        "unit": "buah",
+        "preparation": "ambil airnya"
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus jagung sampai empuk. Masukkan udang bila pakai sampai matang."
+      },
+      {
+        "number": 2,
+        "text": "Tambahkan bawang merah, cabai rawit, dan garam. Didihkan 2 menit."
+      },
+      {
+        "number": 3,
+        "text": "Matikan api, masukkan kemangi dan suwir ikan (bila pakai)."
+      },
+      {
+        "number": 4,
+        "text": "Siram/beri air jeruk nipis saat akan disajikan."
+      }
+    ],
+    "tags": [
+      "jagung",
+      "segar",
+      "pedas"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "panci"
+    ],
+    "notes": "Jeruk nipis ditambahkan terakhir agar aromanya segar dan tidak pahit.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0016",
+    "title": "Papeda Kuah Kuning",
+    "origin_region": "Papua",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 25,
+    "total_time": 45,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "sagu",
+        "quantity": 200,
+        "unit": "g",
+        "preparation": "larutkan dengan air dingin"
+      },
+      {
+        "name": "air",
+        "quantity": 1200,
+        "unit": "ml",
+        "preparation": "600 ml untuk papeda, 600 ml untuk kuah"
+      },
+      {
+        "name": "ikan (kakap/ikan laut)",
+        "quantity": 500,
+        "unit": "g",
+        "preparation": "potong"
+      },
+      {
+        "name": "kunyit",
+        "quantity": 20,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 6,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 3,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "serai",
+        "quantity": 1,
+        "unit": "batang",
+        "preparation": "memarkan"
+      },
+      {
+        "name": "daun jeruk",
+        "quantity": 4,
+        "unit": "lembar",
+        "preparation": null
+      },
+      {
+        "name": "jeruk nipis",
+        "quantity": 1,
+        "unit": "buah",
+        "preparation": null
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Kuah: haluskan bawang merah, bawang putih, kunyit. Tumis hingga harum."
+      },
+      {
+        "number": 2,
+        "text": "Tambahkan air, serai, daun jeruk. Didihkan."
+      },
+      {
+        "number": 3,
+        "text": "Masukkan ikan, masak hingga matang. Tambahkan garam dan perasan jeruk nipis secukupnya."
+      },
+      {
+        "number": 4,
+        "text": "Papeda: didihkan 600 ml air. Tuang larutan sagu sedikit-sedikit sambil diaduk cepat sampai kental bening."
+      },
+      {
+        "number": 5,
+        "text": "Sajikan papeda dengan kuah kuning panas."
+      }
+    ],
+    "tags": [
+      "sagu",
+      "ikan",
+      "berkuah"
+    ],
+    "categories": [
+      "masakan utama"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "panci",
+      "pengaduk"
+    ],
+    "notes": "Aduk sagu konstan agar tidak menggumpal; hasil ideal bening dan elastis.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0017",
+    "title": "Rawon",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 20,
+    "cook_time": 90,
+    "total_time": 110,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging sapi",
+        "quantity": 700,
+        "unit": "g",
+        "preparation": "potong"
+      },
+      {
+        "name": "air",
+        "quantity": 2500,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "kluwek",
+        "quantity": 5,
+        "unit": "buah",
+        "preparation": "ambil isi, rendam air hangat"
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 10,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 5,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "ketumbar",
+        "quantity": 1,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "kunyit",
+        "quantity": 10,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "serai",
+        "quantity": 2,
+        "unit": "batang",
+        "preparation": "memarkan"
+      },
+      {
+        "name": "daun salam",
+        "quantity": 3,
+        "unit": "lembar",
+        "preparation": null
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus daging sampai setengah empuk, angkat. Simpan kaldu."
+      },
+      {
+        "number": 2,
+        "text": "Haluskan bawang merah, bawang putih, ketumbar, kunyit, dan isi kluwek."
+      },
+      {
+        "number": 3,
+        "text": "Tumis bumbu halus hingga harum. Masukkan serai dan daun salam."
+      },
+      {
+        "number": 4,
+        "text": "Masukkan tumisan ke kaldu, masukkan daging. Masak hingga empuk."
+      },
+      {
+        "number": 5,
+        "text": "Koreksi garam. Sajikan."
+      }
+    ],
+    "tags": [
+      "berkuah",
+      "kluwek"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "panci",
+      "wajan"
+    ],
+    "notes": "Pastikan kluwek tidak pahit (cicip sedikit) sebelum dimasukkan.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0018",
+    "title": "Gudeg (Sederhana)",
+    "origin_region": "DI Yogyakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 20,
+    "cook_time": 180,
+    "total_time": 200,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "nangka muda",
+        "quantity": 1000,
+        "unit": "g",
+        "preparation": "rebus 10 menit, tiriskan"
+      },
+      {
+        "name": "santan",
+        "quantity": 1000,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "gula merah",
+        "quantity": 150,
+        "unit": "g",
+        "preparation": "serut"
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 10,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 5,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "kemiri",
+        "quantity": 4,
+        "unit": "butir",
+        "preparation": "sangrai"
+      },
+      {
+        "name": "daun salam",
+        "quantity": 4,
+        "unit": "lembar",
+        "preparation": null
+      },
+      {
+        "name": "lengkuas",
+        "quantity": 30,
+        "unit": "g",
+        "preparation": "memarkan"
+      },
+      {
+        "name": "garam",
+        "quantity": 1,
+        "unit": "sdt",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Haluskan bawang merah, bawang putih, kemiri."
+      },
+      {
+        "number": 2,
+        "text": "Masukkan nangka ke panci. Tambahkan bumbu halus, daun salam, lengkuas, gula merah."
+      },
+      {
+        "number": 3,
+        "text": "Tuang santan. Masak api kecil hingga mendidih pelan."
+      },
+      {
+        "number": 4,
+        "text": "Masak lama api kecil sampai nangka empuk dan kuah menyusut. Aduk sesekali."
+      },
+      {
+        "number": 5,
+        "text": "Tambahkan garam, koreksi manis-gurih, angkat."
+      }
+    ],
+    "tags": [
+      "manis-gurih",
+      "santan",
+      "nangka"
+    ],
+    "categories": [
+      "masakan utama"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "panci bertutup"
+    ],
+    "notes": "Semakin lama dimasak api kecil, rasa semakin ‘nendang’ dan warna makin pekat.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0019",
+    "title": "Soto Betawi",
+    "origin_region": "DKI Jakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 20,
+    "cook_time": 90,
+    "total_time": 110,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging sapi",
+        "quantity": 600,
+        "unit": "g",
+        "preparation": "potong"
+      },
+      {
+        "name": "air",
+        "quantity": 2000,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "santan atau susu evaporasi (pilih salah satu)",
+        "quantity": 600,
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "name": "bawang merah",
+        "quantity": 10,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 5,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "kemiri",
+        "quantity": 4,
+        "unit": "butir",
+        "preparation": "sangrai"
+      },
+      {
+        "name": "jahe",
+        "quantity": 15,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "pala bubuk",
+        "quantity": 0.25,
+        "unit": "sdt",
+        "preparation": null
+      },
+      {
+        "name": "daun salam",
+        "quantity": 2,
+        "unit": "lembar",
+        "preparation": null
+      },
+      {
+        "name": "serai",
+        "quantity": 1,
+        "unit": "batang",
+        "preparation": "memarkan"
+      },
+      {
+        "name": "garam",
+        "quantity": null,
+        "unit": "secukupnya",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus daging sampai empuk. Angkat daging, potong kecil. Simpan kaldu."
+      },
+      {
+        "number": 2,
+        "text": "Haluskan bawang merah, bawang putih, kemiri, jahe. Tumis hingga harum."
+      },
+      {
+        "number": 3,
+        "text": "Masukkan tumisan ke kaldu. Tambahkan serai, daun salam, pala."
+      },
+      {
+        "number": 4,
+        "text": "Masukkan daging. Masak 10 menit."
+      },
+      {
+        "number": 5,
+        "text": "Tuang santan/susu evaporasi perlahan, aduk. Koreksi garam, jangan sampai mendidih keras."
+      }
+    ],
+    "tags": [
+      "soto",
+      "creamy"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ],
+    "dietary_flags": [],
+    "equipment": [
+      "panci",
+      "wajan"
+    ],
+    "notes": "Setelah santan/susu masuk, api kecil agar tidak pecah.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0020",
+    "title": "Karedok",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 0,
+    "total_time": 20,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "kacang panjang",
+        "quantity": 150,
+        "unit": "g",
+        "preparation": "iris"
+      },
+      {
+        "name": "kol",
+        "quantity": 150,
+        "unit": "g",
+        "preparation": "iris"
+      },
+      {
+        "name": "tauge",
+        "quantity": 150,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "timun",
+        "quantity": 1,
+        "unit": "buah",
+        "preparation": "iris"
+      },
+      {
+        "name": "terong bulat (opsional)",
+        "quantity": 1,
+        "unit": "buah",
+        "preparation": "iris tipis"
+      },
+      {
+        "name": "kacang tanah",
+        "quantity": 120,
+        "unit": "g",
+        "preparation": "goreng/sangrai, haluskan"
+      },
+      {
+        "name": "bawang putih",
+        "quantity": 2,
+        "unit": "siung",
+        "preparation": null
+      },
+      {
+        "name": "cabai rawit",
+        "quantity": 6,
+        "unit": "buah",
+        "preparation": "sesuai selera"
+      },
+      {
+        "name": "kencur",
+        "quantity": 10,
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "name": "gula merah",
+        "quantity": 1,
+        "unit": "sdm",
+        "preparation": null
+      },
+      {
+        "name": "asam jawa",
+        "quantity": 1,
+        "unit": "sdt",
+        "preparation": "larutkan"
+      },
+      {
+        "name": "garam",
+        "quantity": 0.5,
+        "unit": "sdt",
+        "preparation": null
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Siapkan sayuran mentah, cuci bersih dan tiriskan."
+      },
+      {
+        "number": 2,
+        "text": "Ulek bumbu: bawang putih, cabai, kencur, garam sampai halus."
+      },
+      {
+        "number": 3,
+        "text": "Masukkan kacang tanah halus, gula merah, dan larutan asam. Ulek sampai jadi bumbu kental."
+      },
+      {
+        "number": 4,
+        "text": "Campur sayuran dengan bumbu. Aduk rata, sajikan."
+      }
+    ],
+    "tags": [
+      "segar",
+      "lalap",
+      "kacang"
+    ],
+    "categories": [
+      "salad tradisional"
+    ],
+    "dietary_flags": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "ulekan"
+    ],
+    "notes": "Bumbu diulek manual memberi aroma kencur lebih keluar dibanding blender.",
+    "last_updated": "2026-02-23"
+  },
+  {
+    "id": "menusa_0021",
+    "title": "Nasi Liwet Solo",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 45,
+    "total_time": 65,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "beras",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak beras dengan santan."
+      }
+    ],
+    "tags": [
+      "santan",
+      "nasi"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0022",
+    "title": "Sate Lilit Ayam",
+    "origin_region": "Bali",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 30,
+    "cook_time": 20,
+    "total_time": 50,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging ayam giling",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Lilitkan ayam pada batang serai."
+      }
+    ],
+    "tags": [
+      "sate",
+      "ayam"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0023",
+    "title": "Ayam Penyet",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Goreng ayam lalu penyet dengan sambal."
+      }
+    ],
+    "tags": [
+      "pedas",
+      "ayam"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0024",
+    "title": "Ikan Bakar Jimbaran",
+    "origin_region": "Bali",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ikan laut",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Bakar ikan dengan bumbu khas Jimbaran."
+      }
+    ],
+    "tags": [
+      "bakar",
+      "ikan"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0025",
+    "title": "Soto Kudus",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 60,
+    "total_time": 80,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam kampung",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus kaldu ayam dan sajikan dengan kuah bening."
+      }
+    ],
+    "tags": [
+      "soto",
+      "kuah"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0026",
+    "title": "Rujak Cingur",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 0,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "cingur sapi",
+        "quantity": 200,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Campur cingur dengan sayuran dan bumbu petis."
+      }
+    ],
+    "tags": [
+      "rujak",
+      "khas"
+    ],
+    "categories": [
+      "jajanan"
+    ]
+  },
+  {
+    "id": "menusa_0027",
+    "title": "Mie Celor",
+    "origin_region": "Sumatera Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "mie kuning",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Siram mie dengan kuah santan kaldu ebi."
+      }
+    ],
+    "tags": [
+      "mie",
+      "kuah"
+    ],
+    "categories": [
+      "makanan utama"
+    ]
+  },
+  {
+    "id": "menusa_0028",
+    "title": "Ayam Geprek",
+    "origin_region": "DI Yogyakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ayam goreng tepung",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Geprek ayam dengan sambal bawang."
+      }
+    ],
+    "tags": [
+      "pedas",
+      "ayam"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0029",
+    "title": "Sate Padang",
+    "origin_region": "Sumatera Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 45,
+    "total_time": 75,
+    "difficulty": "sulit",
+    "ingredients": [
+      {
+        "name": "daging sapi",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus daging dan siram dengan kuah kental kuning."
+      }
+    ],
+    "tags": [
+      "sate",
+      "daging"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0030",
+    "title": "Pecel Lele",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ikan lele",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Goreng lele dan sajikan dengan sambal tomat."
+      }
+    ],
+    "tags": [
+      "goreng",
+      "ikan"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0031",
+    "title": "Nasi Uduk",
+    "origin_region": "DKI Jakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 40,
+    "total_time": 55,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "beras",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak beras dengan santan dan serai."
+      }
+    ],
+    "tags": [
+      "nasi",
+      "santan"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0032",
+    "title": "Seblak",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "kerupuk mentah",
+        "quantity": 150,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus kerupuk dengan bumbu kencur pedas."
+      }
+    ],
+    "tags": [
+      "pedas",
+      "kuah"
+    ],
+    "categories": [
+      "jajanan"
+    ]
+  },
+  {
+    "id": "menusa_0033",
+    "title": "Babi Guling",
+    "origin_region": "Bali",
+    "cuisine_subtype": "Nusantara",
+    "servings": 10,
+    "prep_time": 60,
+    "cook_time": 240,
+    "total_time": 300,
+    "difficulty": "sulit",
+    "ingredients": [
+      {
+        "name": "babi utuh",
+        "quantity": 5000,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Guling babi utuh dengan bumbu rempah Bali."
+      }
+    ],
+    "tags": [
+      "babi",
+      "panggang"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0034",
+    "title": "Selat Solo",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 60,
+    "total_time": 90,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging sapi",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus daging dengan kecap dan bumbu rempah."
+      }
+    ],
+    "tags": [
+      "daging",
+      "kuah manis"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0035",
+    "title": "Pindang Patin",
+    "origin_region": "Sumatera Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ikan patin",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak kuah pindang asam segar lalu masukkan patin."
+      }
+    ],
+    "tags": [
+      "ikan",
+      "asam segar"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0036",
+    "title": "Ayam Goreng Kalasan",
+    "origin_region": "DI Yogyakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 800,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Ungkep ayam dengan air kelapa lalu goreng."
+      }
+    ],
+    "tags": [
+      "goreng",
+      "manis gurih"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0037",
+    "title": "Ketoprak",
+    "origin_region": "DKI Jakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 2,
+    "prep_time": 20,
+    "cook_time": 0,
+    "total_time": 20,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "tahu, bihun, tauge",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Campur bahan dengan bumbu kacang bawang putih."
+      }
+    ],
+    "tags": [
+      "kacang",
+      "sayur"
+    ],
+    "categories": [
+      "jajanan"
+    ]
+  },
+  {
+    "id": "menusa_0038",
+    "title": "Tongseng Kambing",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 45,
+    "total_time": 65,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging kambing",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Tumis dengan bumbu gulai dan kecap."
+      }
+    ],
+    "tags": [
+      "kambing",
+      "kuah kental"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0039",
+    "title": "Sate Taichan",
+    "origin_region": "DKI Jakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "dada ayam",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Bakar ayam polos dan sajikan dengan sambal rawit."
+      }
+    ],
+    "tags": [
+      "sate",
+      "pedas"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0040",
+    "title": "Soto Mie Bogor",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 90,
+    "total_time": 120,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging sapi & mie kuning",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus kuah kaldu sapi bening dan tuang ke mie."
+      }
+    ],
+    "tags": [
+      "soto",
+      "kuah bening"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0041",
+    "title": "Empal Gentong",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 90,
+    "total_time": 120,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging sapi",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak kuah santan kuning dengan daging sapi."
+      }
+    ],
+    "tags": [
+      "santan",
+      "berkuah"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0042",
+    "title": "Nasi Kuning",
+    "origin_region": "Nasional",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 20,
+    "cook_time": 45,
+    "total_time": 65,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "beras",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak beras dengan santan dan kunyit."
+      }
+    ],
+    "tags": [
+      "nasi",
+      "gurih"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0043",
+    "title": "Iga Penyet",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 90,
+    "total_time": 120,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "iga sapi",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Presto iga lalu goreng, penyet di atas sambal."
+      }
+    ],
+    "tags": [
+      "daging",
+      "pedas"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0044",
+    "title": "Sayur Lodeh",
+    "origin_region": "Jawa",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "sayuran campur",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak sayuran dalam kuah santan gurih."
+      }
+    ],
+    "tags": [
+      "sayur",
+      "santan"
+    ],
+    "categories": [
+      "sayur"
+    ]
+  },
+  {
+    "id": "menusa_0045",
+    "title": "Opor Ayam",
+    "origin_region": "Jawa",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 20,
+    "cook_time": 45,
+    "total_time": 65,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 800,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak ayam dalam kuah santan kuning pucat."
+      }
+    ],
+    "tags": [
+      "ayam",
+      "santan"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0046",
+    "title": "Sate Buntel",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 30,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging kambing cincang",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Buntel daging di tusuk sate dan bakar."
+      }
+    ],
+    "tags": [
+      "sate",
+      "kambing"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0047",
+    "title": "Tengkleng",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 90,
+    "total_time": 120,
+    "difficulty": "sulit",
+    "ingredients": [
+      {
+        "name": "tulang kambing",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak tulang kambing dengan kuah gulai encer."
+      }
+    ],
+    "tags": [
+      "kambing",
+      "kuah pedas"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0048",
+    "title": "Asinan Betawi",
+    "origin_region": "DKI Jakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 0,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "sayuran segar",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Campur dengan kuah bumbu kacang asam pedas."
+      }
+    ],
+    "tags": [
+      "sayur",
+      "segar"
+    ],
+    "categories": [
+      "salad tradisional"
+    ]
+  },
+  {
+    "id": "menusa_0049",
+    "title": "Kerak Telor",
+    "origin_region": "DKI Jakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "beras ketan & telur bebek",
+        "quantity": 200,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Panggang di wajan tanpa minyak dengan serundeng."
+      }
+    ],
+    "tags": [
+      "telur",
+      "panggang"
+    ],
+    "categories": [
+      "jajanan"
+    ]
+  },
+  {
+    "id": "menusa_0050",
+    "title": "Gohu Ikan",
+    "origin_region": "Maluku",
+    "cuisine_subtype": "Nusantara",
+    "servings": 3,
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ikan tuna segar",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Aduk ikan mentah dengan jeruk cui, daun kemangi, dan kenari."
+      }
+    ],
+    "tags": [
+      "ikan mentah",
+      "segar"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0051",
+    "title": "Gepuk Daging Sapi",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 90,
+    "total_time": 110,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging sapi",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus daging, pukul-pukul, dan ungkep dengan bumbu manis guriih lalu goreng."
+      }
+    ],
+    "tags": [
+      "daging",
+      "manis gurih"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0052",
+    "title": "Soto Banjar",
+    "origin_region": "Kalimantan Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 30,
+    "cook_time": 60,
+    "total_time": 90,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam kampung",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus kaldu dengan rempah kayu manis dan cengkeh."
+      }
+    ],
+    "tags": [
+      "soto",
+      "rempah"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0053",
+    "title": "Ayam Tangkap",
+    "origin_region": "Aceh",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Goreng ayam bersama daun kari, pandan, dan salam kojak."
+      }
+    ],
+    "tags": [
+      "goreng",
+      "rempah daun"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0054",
+    "title": "Cakalang Fufu",
+    "origin_region": "Sulawesi Utara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ikan cakalang asap",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Suwir ikan dan tumis dengan sambal rica-rica."
+      }
+    ],
+    "tags": [
+      "ikan asap",
+      "pedas"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0055",
+    "title": "Ayam Woku",
+    "origin_region": "Sulawesi Utara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak ayam dengan bumbu kuning pedas dan kemangi berlimpah."
+      }
+    ],
+    "tags": [
+      "pedas",
+      "kemangi"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0056",
+    "title": "Soto Lamongan",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 30,
+    "cook_time": 60,
+    "total_time": 90,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Sajikan soto dengan taburan koya kerupuk udang."
+      }
+    ],
+    "tags": [
+      "soto",
+      "bubuk koya"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0057",
+    "title": "Gadon Daging",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "daging sapi cincang",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Bungkus daging cincang dan santan dalam daun pisang lalu kukus."
+      }
+    ],
+    "tags": [
+      "kukus",
+      "santan"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0058",
+    "title": "Sambal Goreng Krecek",
+    "origin_region": "DI Yogyakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "kerupuk rambak/krecek",
+        "quantity": 150,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak krecek dalam kuah santan kemerahan pedas bersama kacang tolo."
+      }
+    ],
+    "tags": [
+      "santan",
+      "pedas"
+    ],
+    "categories": [
+      "sayur"
+    ]
+  },
+  {
+    "id": "menusa_0059",
+    "title": "Sate Ambal",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Sate ayam yang disajikan dengan saus tempe halus sebagai pengganti kacang."
+      }
+    ],
+    "tags": [
+      "sate",
+      "saus tempe"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0060",
+    "title": "Nasi Campur Bali",
+    "origin_region": "Bali",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 60,
+    "cook_time": 60,
+    "total_time": 120,
+    "difficulty": "sulit",
+    "ingredients": [
+      {
+        "name": "beras dan aneka lauk bali",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Tata nasi putih dengan sate lilit, lawar, ayam betutu, dan sambal matah."
+      }
+    ],
+    "tags": [
+      "nasi",
+      "lengkap"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0061",
+    "title": "Lontong Sayur Medan",
+    "origin_region": "Sumatera Utara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 40,
+    "cook_time": 60,
+    "total_time": 100,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "lontong, nangka muda, pakis",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Sajikan lontong dengan sayur gurih pedas, tauco, dan teri kacang."
+      }
+    ],
+    "tags": [
+      "santan",
+      "lontong"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0062",
+    "title": "Gulai Daun Singkong",
+    "origin_region": "Sumatera Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "daun singkong muda",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus daun singkong lalu masak dalam kuah gulai encer."
+      }
+    ],
+    "tags": [
+      "sayur",
+      "gulai"
+    ],
+    "categories": [
+      "sayur"
+    ]
+  },
+  {
+    "id": "menusa_0063",
+    "title": "Nasi Grombyang",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 90,
+    "total_time": 120,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging kerbau/sapi",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Sajikan nasi dengan kuah daging berempah kluwek pucat dan irisan daging besar."
+      }
+    ],
+    "tags": [
+      "nasi",
+      "kuah daging"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0064",
+    "title": "Sate Maranggi",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 40,
+    "cook_time": 20,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging sapi",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Marinasi daging dengan ketumbar dan kecap lalu bakar. Sajikan tanpa saus kacang."
+      }
+    ],
+    "tags": [
+      "sate",
+      "manis"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0065",
+    "title": "Lontong Balap",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 40,
+    "total_time": 70,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "tauge, tahu, lontong, lentho",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Siram bahan dengan kuah bening kaldu dan taburan lentho serta sambal petis."
+      }
+    ],
+    "tags": [
+      "lontong",
+      "segar"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0066",
+    "title": "Ayam Iloni",
+    "origin_region": "Gorontalo",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 45,
+    "total_time": 65,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Ungkep ayam dengan bumbu santan pedas lalu bakar."
+      }
+    ],
+    "tags": [
+      "ayam",
+      "santan bakar"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0067",
+    "title": "Kupat Tahu",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 3,
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ketupat, tahu goreng, tauge",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Siram bahan dengan kuah kacang encer atau kuah kecap bawang merah."
+      }
+    ],
+    "tags": [
+      "ketupat",
+      "tahu"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0068",
+    "title": "Sup Konro",
+    "origin_region": "Sulawesi Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 120,
+    "total_time": 140,
+    "difficulty": "sulit",
+    "ingredients": [
+      {
+        "name": "iga sapi utuh",
+        "quantity": 800,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak iga lama dengan bumbu rempah hitam berbahan kluwek."
+      }
+    ],
+    "tags": [
+      "berkuah",
+      "iga"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0069",
+    "title": "Nasi Jagung",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "beras dan beras jagung",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Kukus beras campuran jagung, sajikan dengan urapan dan ikan asin."
+      }
+    ],
+    "tags": [
+      "nasi",
+      "jagung kering"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0070",
+    "title": "Plecing Kangkung",
+    "origin_region": "Nusa Tenggara Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 10,
+    "total_time": 25,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "kangkung segar",
+        "quantity": 200,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus kangkung, sajikan dengan sambal tomat terasi yang segar pedas."
+      }
+    ],
+    "tags": [
+      "sayur",
+      "pedas segar"
+    ],
+    "categories": [
+      "salad tradisional"
+    ]
+  },
+  {
+    "id": "menusa_0071",
+    "title": "Nasi Krawu",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging sapi",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Sajikan nasi dengan suwiran daging empuk, serundeng, dan sambal terasi."
+      }
+    ],
+    "tags": [
+      "nasi",
+      "daging kelapa"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0072",
+    "title": "Rujak Soto",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 60,
+    "total_time": 90,
+    "difficulty": "sulit",
+    "ingredients": [
+      {
+        "name": "potongan babat dan tulang sapi",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Tuang kuah soto panas ke atas sayur rujak cingur petis."
+      }
+    ],
+    "tags": [
+      "rujak",
+      "soto"
+    ],
+    "categories": [
+      "makanan utama"
+    ]
+  },
+  {
+    "id": "menusa_0073",
+    "title": "Ayam Panggang Klaten",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 60,
+    "total_time": 80,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Ungkep ayam dengan santan dan rempah lalu panggang."
+      }
+    ],
+    "tags": [
+      "ayam",
+      "panggang santan"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0074",
+    "title": "Lapis Daging Sapi",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 60,
+    "total_time": 80,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging sapi",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak daging lapis dengan bumbu kecap manis legit."
+      }
+    ],
+    "tags": [
+      "daging",
+      "lapis kecap"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0075",
+    "title": "Garang Asem Ayam",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 20,
+    "cook_time": 45,
+    "total_time": 65,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Kukus ayam bersama belimbing wuluh dan santan berbungkus daun pisang."
+      }
+    ],
+    "tags": [
+      "ayam",
+      "asam segar"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0076",
+    "title": "Ikan Pe Asap Kuah Santan",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ikan pari/pe asap",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak ikan asap dalam kuah santan pedas gurih."
+      }
+    ],
+    "tags": [
+      "ikan asap",
+      "santan"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0077",
+    "title": "Tahu Tek",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 3,
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "tahu, telur, lontong",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Goreng tahu dan telur berbumbu lalu siram saus kacang petis."
+      }
+    ],
+    "tags": [
+      "tahu goreng",
+      "petis"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0078",
+    "title": "Ayam Bumbu Rujak",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Panggang ayam berbalut bumbu kemerahan manis pedas."
+      }
+    ],
+    "tags": [
+      "ayam",
+      "bumbu rujak"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0079",
+    "title": "Kare Rajungan",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "kepiting rajungan",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak rajungan dengan bumbu kare pedas bersantan."
+      }
+    ],
+    "tags": [
+      "kepiting",
+      "kare"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0080",
+    "title": "Nasi Bejeg",
+    "origin_region": "Bali",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam suwir, nasi pucat",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Remas/bejeg ayam suwir berbumbu bersama nasi dan rempah."
+      }
+    ],
+    "tags": [
+      "nasi",
+      "ayam suwir"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0081",
+    "title": "Mie Kocok",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 90,
+    "total_time": 110,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "mie kuning lurus, kikil",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Kocok mie lalu siram kuah tulang sapi kental dan potongan kikil."
+      }
+    ],
+    "tags": [
+      "mie",
+      "kikil sapi"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0082",
+    "title": "Sate Buntel Sapi",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "daging sapi cincang berlapis lemak",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Buntel/lilit sapi cincang dan bakar, siram dengan saus kecap."
+      }
+    ],
+    "tags": [
+      "sate",
+      "sapi cincang"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0083",
+    "title": "Soto Kesawan",
+    "origin_region": "Sumatera Utara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 60,
+    "total_time": 80,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "udang, bihun",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Siram udang segar dengan kuah kaldu rempah tanpa santan."
+      }
+    ],
+    "tags": [
+      "soto berkuah",
+      "udang"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0084",
+    "title": "Nasi Tiwul",
+    "origin_region": "Jawa",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "tepung gaplek singkong",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Kukus tepung tiwul dan sajikan bersama parutan kelapa / lauk pauk."
+      }
+    ],
+    "tags": [
+      "nasi tradisional",
+      "singkong"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0085",
+    "title": "Doclang",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 3,
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ketupat, tahu, kentang",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Beri irisan potongan ketupat, tahu dan telor, lalu siram bumbu kacang kental."
+      }
+    ],
+    "tags": [
+      "bumbu kacang",
+      "jajanan"
+    ],
+    "categories": [
+      "masakan utama"
+    ]
+  },
+  {
+    "id": "menusa_0086",
+    "title": "Burgo",
+    "origin_region": "Sumatera Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 20,
+    "total_time": 50,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "tepung beras dadar gulung",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Siram potongan dadar gulung tepung beras dengan kuah santan dan kaldu ikan."
+      }
+    ],
+    "tags": [
+      "dadar tepung",
+      "santan gurih"
+    ],
+    "categories": [
+      "makanan utama"
+    ]
+  },
+  {
+    "id": "menusa_0087",
+    "title": "Pacri Nanas",
+    "origin_region": "Sumatera, Kalimantan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 3,
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "buah nanas matang",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak nanas dengan bumbu kayu manis, cengkeh dan cuka."
+      }
+    ],
+    "tags": [
+      "buah",
+      "asam manis pendamping"
+    ],
+    "categories": [
+      "sayur pendamping"
+    ]
+  },
+  {
+    "id": "menusa_0088",
+    "title": "Semur Jengkol",
+    "origin_region": "DKI Jakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 45,
+    "cook_time": 60,
+    "total_time": 105,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "jengkol tua yang diempukkan",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus empuk dengan abu, geprek pipih, lalu masak dalam semur kecap pekat."
+      }
+    ],
+    "tags": [
+      "jengkol",
+      "kecap manis"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0089",
+    "title": "Pindang Tulang",
+    "origin_region": "Sumatera Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 20,
+    "cook_time": 90,
+    "total_time": 110,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "tulang rusuk sapi",
+        "quantity": 700,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak iga tulang dengan nanas segar dan tomat ceri serta bumbu pedas asam manis."
+      }
+    ],
+    "tags": [
+      "iga tulang",
+      "segar nanas"
+    ],
+    "categories": [
+      "makanan berkuah"
+    ]
+  },
+  {
+    "id": "menusa_0090",
+    "title": "Ayam Pop",
+    "origin_region": "Sumatera Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "Ayam kampung tanpa kulit",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Ungkep dengan air kelapa pucat, lalu goreng sekilas saja tidak garing."
+      }
+    ],
+    "tags": [
+      "ayam pucat",
+      "minang kelapa"
+    ],
+    "categories": [
+      "lauk"
+    ]
+  },
+  {
+    "id": "menusa_0091",
+    "title": "Kue Pukis",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 10,
+    "prep_time": 60,
+    "cook_time": 20,
+    "total_time": 80,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "tepung terigu, santan, ragi",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Diamkan adonan pukis sampai mengembang, lalu tuang pada cetakan panas."
+      }
+    ],
+    "tags": [
+      "kue manis",
+      "jajanan pasar"
+    ],
+    "categories": [
+      "cemilan"
+    ]
+  },
+  {
+    "id": "menusa_0092",
+    "title": "Lemper Ayam",
+    "origin_region": "Jawa",
+    "cuisine_subtype": "Nusantara",
+    "servings": 8,
+    "prep_time": 40,
+    "cook_time": 40,
+    "total_time": 80,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ketan, ayam suwir berbumbu",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Kukus ketan dengan santan, isikan ayam suwir, lalu bungkus daun pisang."
+      }
+    ],
+    "tags": [
+      "ketan",
+      "kue asin"
+    ],
+    "categories": [
+      "cemilan"
+    ]
+  },
+  {
+    "id": "menusa_0093",
+    "title": "Kue Lumpur Surga",
+    "origin_region": "Kalimantan Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "santan, pandan, telur",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Kukus adonan hijau pandan lalu timpa dengan adonan putih santan gurih manis."
+      }
+    ],
+    "tags": [
+      "kue basah",
+      "santan gurih"
+    ],
+    "categories": [
+      "cemilan"
+    ]
+  },
+  {
+    "id": "menusa_0094",
+    "title": "Biji Salak (Kolak)",
+    "origin_region": "Sumatera Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 30,
+    "cook_time": 30,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ubi jalar kuning, tepung sagu",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Bentuk bulat adonan ubi sagu, rebus, lalu siram dengan kuah gula merah santan."
+      }
+    ],
+    "tags": [
+      "manis",
+      "ubi jalar"
+    ],
+    "categories": [
+      "cemilan"
+    ]
+  },
+  {
+    "id": "menusa_0095",
+    "title": "Pempek Dos",
+    "origin_region": "Sumatera Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 30,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "tepung sagu, terigu, tanpa ikan",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus adonan pempek tanpa ikan ini, lalu goreng dan sajikan dengan cuko merah."
+      }
+    ],
+    "tags": [
+      "gurih kenyal",
+      "tanpa ikan"
+    ],
+    "categories": [
+      "cemilan"
+    ]
+  },
+  {
+    "id": "menusa_0096",
+    "title": "Cireng Bumbu Rujak",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "tepung tapioka, bawang putih",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Goreng pipih adonan tapioka biang lalu cocol dengan bumbu rujak pedas manis asam."
+      }
+    ],
+    "tags": [
+      "kenyal",
+      "gorengan"
+    ],
+    "categories": [
+      "cemilan"
+    ]
+  },
+  {
+    "id": "menusa_0097",
+    "title": "Pastel Sayur Telur",
+    "origin_region": "Nusantara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 10,
+    "prep_time": 45,
+    "cook_time": 30,
+    "total_time": 75,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "tepung terigu, wortel, bihun, telur",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Gilas kulit pastel, isikan sayur basah dan telur, jepit ulir pinggirnya dan goreng."
+      }
+    ],
+    "tags": [
+      "goreng ranyah",
+      "jajanan gurih"
+    ],
+    "categories": [
+      "cemilan"
+    ]
+  },
+  {
+    "id": "menusa_0098",
+    "title": "Klepon Ketan",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 30,
+    "cook_time": 20,
+    "total_time": 50,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "tepung ketan, pandan, gula merah",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Isi bulatan ketan hijau pandan dengan irisan gula merah, rebus sampai mengapung, balur parutan kelapa."
+      }
+    ],
+    "tags": [
+      "manis legit",
+      "kue basah"
+    ],
+    "categories": [
+      "cemilan"
+    ]
+  },
+  {
+    "id": "menusa_0099",
+    "title": "Risol Mayo",
+    "origin_region": "DKI Jakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 8,
+    "prep_time": 30,
+    "cook_time": 20,
+    "total_time": 50,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "kulit lumpia/risol, mayo, smoke beef, telur",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Gulung isian mayo daging telur di kulit risol, balur tepung roti lalu goreng."
+      }
+    ],
+    "tags": [
+      "gorengan",
+      "gurih creamy"
+    ],
+    "categories": [
+      "cemilan"
+    ]
+  },
+  {
+    "id": "menusa_0100",
+    "title": "Kue Talam Pandan",
+    "origin_region": "Betawi",
+    "cuisine_subtype": "Nusantara",
+    "servings": 8,
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "tepung beras, santan, pandan",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Kukus adonan pandan beras lalu tuang adonan santan gurih di atasnya."
+      }
+    ],
+    "tags": [
+      "kue talam",
+      "pandan"
+    ],
+    "categories": [
+      "cemilan"
+    ]
+  },
+  {
+    "id": "menusa_0101",
+    "title": "Es Dawet Ayu",
+    "origin_region": "Banjarnegara, Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 15,
+    "total_time": 45,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "tepung beras, pandan, santan, gula merah",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Cetak adonan beras hijau pandan di air es, siram kuah santan dan sirup gula merah wangi nangka."
+      }
+    ],
+    "tags": [
+      "es",
+      "manis segar"
+    ],
+    "categories": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "menusa_0102",
+    "title": "Wedang Ronde",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 20,
+    "total_time": 50,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "tepung ketan, kacang tanah, jahe",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Sajikan bulatan ketan isi kacang kupas dalam kuah jahe gula merah hangat."
+      }
+    ],
+    "tags": [
+      "wedang hangat",
+      "jahe"
+    ],
+    "categories": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "menusa_0103",
+    "title": "Es Kuwut",
+    "origin_region": "Bali",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "kelapa muda, melon, jeruk nipis, selasih",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Campur serutan melon dan kelapa dengan perasan jeruk nipis dan sirup melon segar."
+      }
+    ],
+    "tags": [
+      "es segar",
+      "jeruk nipis"
+    ],
+    "categories": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "menusa_0104",
+    "title": "Es Pisang Ijo",
+    "origin_region": "Makassar, Sulawesi Selatan",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 45,
+    "cook_time": 30,
+    "total_time": 75,
+    "difficulty": "sulit",
+    "ingredients": [
+      {
+        "name": "pisang raja, tepung beras, pandan, sirup DHT",
+        "quantity": 800,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Balut pisang kukus dengan dadar hijau pandan, sajikan dengan bubur sumsum dan sirup pisang ambon merah."
+      }
+    ],
+    "tags": [
+      "es pisang",
+      "manis dingin"
+    ],
+    "categories": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "menusa_0105",
+    "title": "Bandrek",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "jahe bakar, gula merah, kayu manis, cengkeh",
+        "quantity": 300,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus jahe memar dan berbagai rempah kayu manis dengan gula merah, bisa disajikan dengan kerukan kelapa."
+      }
+    ],
+    "tags": [
+      "wedang",
+      "rempah kencang"
+    ],
+    "categories": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "menusa_0106",
+    "title": "Es Selendang Mayang",
+    "origin_region": "DKI Jakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 30,
+    "cook_time": 15,
+    "total_time": 45,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "tepung hunkwe, santan, sirup merah",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Potong kotak adonan hunkwe lapis tiga warna, siram kuah santan dan sirup merah es."
+      }
+    ],
+    "tags": [
+      "es",
+      "hunkwe manis"
+    ],
+    "categories": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "menusa_0107",
+    "title": "Wedang Uwuh",
+    "origin_region": "DI Yogyakarta",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 5,
+    "cook_time": 15,
+    "total_time": 20,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "daun cengkeh, kayu secang, jahe, daun pala",
+        "quantity": 150,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus atau seduh dedaunan rempah kering dan kayu secang sampai air kemerahan hangat."
+      }
+    ],
+    "tags": [
+      "rempah",
+      "minuman kesehatan"
+    ],
+    "categories": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "menusa_0108",
+    "title": "Es Cendol",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 30,
+    "cook_time": 20,
+    "total_time": 50,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "tepung hunkwe/beras, pandan suji",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Cetak cendol dari adonan beras hunkwe hijau pekat, sajikan bersama santan encer dan tebalnya kinca gula aren."
+      }
+    ],
+    "tags": [
+      "es cendol",
+      "gula aren"
+    ],
+    "categories": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "menusa_0109",
+    "title": "Bajigur",
+    "origin_region": "Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "santan, kopi hitam bubuk, gula aren, jahe",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak perlahan santan bersama gula aren, sedikit jahe, dan sejumput bubuk kopi lalu saring."
+      }
+    ],
+    "tags": [
+      "santan hangat",
+      "kopi"
+    ],
+    "categories": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "menusa_0110",
+    "title": "Teh Talua (Teh Telur)",
+    "origin_region": "Sumatera Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 5,
+    "total_time": 15,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "teh hitam pekat, kuning telur ayam kampung, jeruk nipis",
+        "quantity": 200,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Kocok kuning telur dan gula sampai mengembang/kental, seduh dengan teh panas pekat dan kucuran nipis."
+      }
+    ],
+    "tags": [
+      "teh",
+      "penambah stamina"
+    ],
+    "categories": [
+      "minuman"
+    ]
+  },
+  {
+    "id": "menusa_0111",
+    "title": "Kolak Pisang Ubi",
+    "origin_region": "Nusantara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "pisang kepok, ubi kuning, gula aren, santan, pandan",
+        "quantity": 800,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus ubi dan pandan dengan gula aren sampai empuk, masukkan pisang matang dan santan kental, aduk mendidih."
+      }
+    ],
+    "tags": [
+      "takjil",
+      "manis hangat",
+      "ramadhan"
+    ],
+    "categories": [
+      "Minuman"
+    ]
+  },
+  {
+    "id": "menusa_0112",
+    "title": "Es Buah Segar",
+    "origin_region": "Nusantara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 10,
+    "prep_time": 30,
+    "cook_time": 0,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "aneka buah (semangka, melon, apel, anggur), sirup cocopandan, susu kental manis",
+        "quantity": 1500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Potong dadu semua buah, campur dengan bongkahan es, tuang sirup merah dan susu kental pekat."
+      }
+    ],
+    "tags": [
+      "takjil",
+      "es manis",
+      "ramadhan"
+    ],
+    "categories": [
+      "Minuman"
+    ]
+  },
+  {
+    "id": "menusa_0113",
+    "title": "Sop Buah Kuah Susu",
+    "origin_region": "Bandung, Jawa Barat",
+    "cuisine_subtype": "Nusantara",
+    "servings": 8,
+    "prep_time": 25,
+    "cook_time": 0,
+    "total_time": 25,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "naga merah, alpukat, stroberi, jelly, susu evaporasi",
+        "quantity": 1000,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Sajikan potongan buah dan jelly kenyal dengan kuah susu evaporasi kental yang manis gurih dingin."
+      }
+    ],
+    "tags": [
+      "takjil",
+      "es buah",
+      "ramadhan"
+    ],
+    "categories": [
+      "Minuman"
+    ]
+  },
+  {
+    "id": "menusa_0114",
+    "title": "Biji Salak Ubi Ungu",
+    "origin_region": "Nusantara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 30,
+    "cook_time": 25,
+    "total_time": 55,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ubi ungu, tepung sagu, gula merah, santan kental",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Buat bulatan kenyal dari ubi ungu, rebus merapung lalu padukan dengan kinca gula merah dan saus santan gurih."
+      }
+    ],
+    "tags": [
+      "takjil",
+      "kue basah",
+      "ramadhan"
+    ],
+    "categories": [
+      "Cemilan"
+    ]
+  },
+  {
+    "id": "menusa_0115",
+    "title": "Ayam Kecap Sahur Praktis",
+    "origin_region": "Nusantara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "ayam potong kecil, kecap manis, bawang bombay",
+        "quantity": 500,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Tumis bawang bombay, masukkan ayam cepat matang, bumbui kecap tebal berkaramel, masak sebentar di waktu sahur."
+      }
+    ],
+    "tags": [
+      "sahur",
+      "praktis",
+      "ayam",
+      "ramadhan"
+    ],
+    "categories": [
+      "Utama"
+    ]
+  },
+  {
+    "id": "menusa_0116",
+    "title": "Tumis Telur Tomat Sahur",
+    "origin_region": "Nusantara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 2,
+    "prep_time": 5,
+    "cook_time": 10,
+    "total_time": 15,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "telur ayam kocok, buah tomat, saus tiram, daun bawang",
+        "quantity": 250,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Orak arik telur lembut (jangan terlalu kering), angkat. Tumis potongan tomat sampai layu berair, masukkan kembali telur lalu aduk rata saus tiram."
+      }
+    ],
+    "tags": [
+      "sahur",
+      "praktis",
+      "telur",
+      "ramadhan"
+    ],
+    "categories": [
+      "Lauk"
+    ]
+  },
+  {
+    "id": "menusa_0117",
+    "title": "Opor Ayam Lebaran",
+    "origin_region": "Jawa Timur",
+    "cuisine_subtype": "Nusantara",
+    "servings": 8,
+    "prep_time": 30,
+    "cook_time": 60,
+    "total_time": 90,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ayam kampung, santan cair, santan kental, bumbu kuning",
+        "quantity": 1200,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Masak ayam kampung perlahan di bumbu kuning kuah santan cair memanjang sampai empuk, kentalkan dengan santan tebal di akhir."
+      }
+    ],
+    "tags": [
+      "buka puasa",
+      "hari raya",
+      "ramadhan"
+    ],
+    "categories": [
+      "Utama"
+    ]
+  },
+  {
+    "id": "menusa_0118",
+    "title": "Sambal Goreng Ati Kentang",
+    "origin_region": "Jawa Tengah",
+    "cuisine_subtype": "Nusantara",
+    "servings": 6,
+    "prep_time": 30,
+    "cook_time": 40,
+    "total_time": 70,
+    "difficulty": "sedang",
+    "ingredients": [
+      {
+        "name": "ati ampela ayam, kentang dadu, cabai merah petai",
+        "quantity": 600,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Goreng dadu kentang dan rebus ati ampela. Tumis bumbu pedas manis pekat bersantan, masukkan hati dan kentang bersama petai."
+      }
+    ],
+    "tags": [
+      "lauk berat",
+      "pedas",
+      "ramadhan"
+    ],
+    "categories": [
+      "Lauk"
+    ]
+  },
+  {
+    "id": "menusa_0119",
+    "title": "Es Campur Sirup Merah",
+    "origin_region": "Nusantara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 5,
+    "prep_time": 30,
+    "cook_time": 0,
+    "total_time": 30,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "cincau hitam, tape singkong, kolang-kaling, es serut, sirup",
+        "quantity": 800,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Tata semua isian campur kaya tekstur, taburi es serut gunung lantas guyur dengan sirup frambozen dan kental manis."
+      }
+    ],
+    "tags": [
+      "takjil",
+      "es campur",
+      "ramadhan"
+    ],
+    "categories": [
+      "Minuman"
+    ]
+  },
+  {
+    "id": "menusa_0120",
+    "title": "Sayur Sop Sosis Sahur",
+    "origin_region": "Nusantara",
+    "cuisine_subtype": "Nusantara",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "mudah",
+    "ingredients": [
+      {
+        "name": "wortel, buncis, kentang, sosis sapi, kaldu ayam",
+        "quantity": 400,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "Rebus sayuran padat dan sosis secara bertahap dalam bening kaldu sedap bernuansa pala dan merica untuk menyegarkan perut sahur."
+      }
+    ],
+    "tags": [
+      "sahur",
+      "kuah segar",
+      "ramadhan"
+    ],
+    "categories": [
+      "Sup"
+    ]
+  }
+]
