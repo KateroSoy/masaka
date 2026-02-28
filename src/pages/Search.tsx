@@ -58,7 +58,7 @@ export function Search() {
   const activeFiltersCount = Object.values(filters).filter(v => v !== '' && v !== 'Halal').length;
 
   return (
-    <div className="pb-24 pt-6 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto min-h-screen bg-stone-50">
+    <div className="pb-6 pt-6 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto min-h-full bg-stone-50">
       <div className="sticky top-0 z-10 bg-stone-50 pt-2 pb-4">
         <div className="flex gap-2">
           <div className="relative flex-1">

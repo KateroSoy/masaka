@@ -15,7 +15,7 @@ export function ShoppingList() {
       Bumbu: [],
       Lainnya: []
     };
-    
+
     shoppingList.forEach(item => {
       if (groups[item.category]) {
         groups[item.category].push(item);
@@ -23,13 +23,13 @@ export function ShoppingList() {
         groups.Lainnya.push(item);
       }
     });
-    
+
     return groups;
   }, [shoppingList]);
 
   const handleCopy = () => {
     let textToCopy = '*Belanja Masaka:*\n\n';
-    
+
     (Object.entries(groupedItems) as [string, typeof shoppingList][]).forEach(([category, items]) => {
       if (items.length > 0) {
         textToCopy += `_${category}_\n`;
@@ -50,7 +50,7 @@ export function ShoppingList() {
   const isEmpty = shoppingList.length === 0;
 
   return (
-    <div className="pb-24 pt-6 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto min-h-screen bg-stone-50 relative">
+    <div className="pb-6 pt-6 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto min-h-full bg-stone-50 relative">
       <header className="mb-6 flex justify-between items-center">
         <div>
           <h1 className="text-2xl font-bold text-stone-900 mb-1 flex items-center gap-2">
@@ -60,7 +60,7 @@ export function ShoppingList() {
           <p className="text-stone-500 text-sm">Bahan dari resep pilihanmu.</p>
         </div>
         {hasCheckedItems && (
-          <button 
+          <button
             onClick={clearCheckedShoppingItems}
             className="text-red-500 hover:bg-red-50 p-2 rounded-full transition-colors"
             title="Hapus yang selesai"
@@ -92,15 +92,15 @@ export function ShoppingList() {
                 </h3>
                 <ul className="space-y-3">
                   {items.map((item, idx) => (
-                    <li 
-                      key={idx} 
+                    <li
+                      key={idx}
                       className="flex items-center gap-3 cursor-pointer group"
                       onClick={() => toggleShoppingItem(item.id)}
                     >
                       <div className={cn(
                         "w-6 h-6 rounded-full border-2 flex items-center justify-center transition-colors shrink-0",
-                        item.checked 
-                          ? "bg-green-500 border-green-500 text-white" 
+                        item.checked
+                          ? "bg-green-500 border-green-500 text-white"
                           : "border-stone-300 text-transparent group-hover:border-green-400"
                       )}>
                         <Check className="w-4 h-4" strokeWidth={3} />
@@ -130,7 +130,7 @@ export function ShoppingList() {
 
       {!isEmpty && (
         <div className="fixed bottom-20 left-0 right-0 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto z-40">
-          <Button 
+          <Button
             className="w-full h-14 rounded-2xl shadow-lg bg-green-600 hover:bg-green-700 text-base font-bold"
             onClick={handleCopy}
           >

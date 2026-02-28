@@ -9,11 +9,11 @@ import { Button } from '../components/ui/Button';
 export function Saved() {
   const navigate = useNavigate();
   const { savedRecipeIds } = useAppStore();
-  
+
   const savedRecipes = recipes.filter(r => savedRecipeIds.includes(r.id));
 
   return (
-    <div className="pb-24 pt-6 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto min-h-screen bg-stone-50">
+    <div className="pb-6 pt-6 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto min-h-full bg-stone-50">
       <header className="mb-6">
         <h1 className="text-2xl font-bold text-stone-900 mb-1 flex items-center gap-2">
           <Bookmark className="w-6 h-6 text-orange-500 fill-orange-100" />
@@ -37,7 +37,7 @@ export function Saved() {
           <p className="text-stone-500 text-sm mb-8 max-w-[250px]">
             Coba cari dan simpan resep pertamamu untuk dimasak nanti ✨
           </p>
-          <Button 
+          <Button
             onClick={() => navigate('/search')}
             className="h-12 px-8 rounded-xl font-bold"
           >

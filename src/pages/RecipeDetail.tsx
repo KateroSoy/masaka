@@ -158,7 +158,7 @@ export function RecipeDetail() {
   };
 
   return (
-    <div className="pb-24 bg-white min-h-screen max-w-md md:max-w-2xl lg:max-w-4xl mx-auto relative overflow-hidden">
+    <div className="pb-6 bg-white min-h-full max-w-md md:max-w-2xl lg:max-w-4xl mx-auto relative overflow-hidden">
       {/* Header Image & Back Button */}
       <div className="relative h-72 w-full bg-stone-200">
         <img

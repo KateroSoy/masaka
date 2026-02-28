@@ -11,7 +11,7 @@ export function Profile() {
   const [showPrivacy, setShowPrivacy] = useState(false);
 
   return (
-    <div className="pb-24 pt-6 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto min-h-screen bg-stone-50">
+    <div className="pb-6 pt-6 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto min-h-full bg-stone-50">
       <header className="mb-8 flex items-center gap-4">
         <div className="w-16 h-16 rounded-full bg-orange-100 flex items-center justify-center border-2 border-orange-200">
           <User className="w-8 h-8 text-orange-500" />

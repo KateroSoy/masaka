@@ -12,9 +12,13 @@ import { Paywall } from './pages/Paywall';
 
 function AppLayout({ children }: { children: React.ReactNode }) {
   return (
-    <div className="min-h-screen bg-stone-50 font-sans text-stone-900 selection:bg-orange-200">
-      {children}
-      <BottomNav />
+    <div className="h-[100dvh] flex flex-col bg-stone-50 font-sans text-stone-900 selection:bg-orange-200 overflow-hidden relative w-full">
+      <main className="flex-1 overflow-y-auto w-full relative scroll-smooth">
+        {children}
+      </main>
+      <div className="shrink-0 relative z-50 w-full bg-white">
+        <BottomNav />
+      </div>
     </div>
   );
 }

@@ -55,7 +55,7 @@ export function Home() {
   const quickMeals = recipes.filter(r => r.totalTimeMin <= 30);
 
   return (
-    <div className="pb-24 pt-6 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto min-h-screen bg-stone-50">
+    <div className="pb-6 pt-6 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto min-h-full bg-stone-50">
       <header className="mb-6">
         <h1 className="text-2xl font-bold text-stone-900 mb-1">Masak apa hari ini?</h1>
         <p className="text-stone-500 text-sm">Temukan resep Nusantara favoritmu.</p>
