@@ -1,18 +1,5 @@
 /**
- * Update `heroImageUrl` in a recipes .ts file using Wikimedia (Wikipedia + Commons).
- *
- * Strategy:
- * 1) Search id.wikipedia.org for the recipe title (Action API: list=search)
- * 2) Get the page's main image (Action API: prop=pageimages, pithumbsize=...)
- * 3) Fallback to en.wikipedia.org, then Wikimedia Commons (generator=search + prop=imageinfo)
- *
- * Run with:
- *   npm i -D tsx
- *   npx tsx scripts/update-recipe-images.ts ./src/data/recipes.ts
- *
- * Notes:
- * - Creates/updates `image-cache.json` next to the script (can be changed via arg #2).
- * - Keeps existing heroImageUrl if no better image is found.
+ * Update heroImageUrl in recipes.ts using Wikimedia (Wikipedia + Commons)
  */
 
 import fs from "node:fs/promises";
@@ -22,223 +9,217 @@ import { pathToFileURL } from "node:url";
 type Recipe = { id: string; title: string; heroImageUrl: string };
 
 const RECIPE_FILE = process.argv[2];
-const CACHE_FILE = process.argv[3] ?? "image-cache.json";
-
-// You can tune these:
-const THUMB_WIDTH = 1200;
-const CONCURRENCY = 3;
-const SLEEP_MS = 250;
-
 if (!RECIPE_FILE) {
-  console.error("Usage: npx tsx update-recipe-images.ts <path/to/recipes.ts> [cache.json]");
+  console.error("Usage: npx tsx update-recipe-images.ts <path/to/recipes.ts>");
   process.exit(1);
 }
+
+const THUMB_WIDTH = 1200;
+const CONCURRENCY = 4;
+const SLEEP_MS = 100;
+
+/**
+ * MANUAL OVERRIDES for recipes that consistently get misidentified.
+ */
+const MANUAL_OVERRIDES: Record<string, string> = {
+  "menusa_0036": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Rujak_Cingur.jpg",
+  "menusa_0057": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Gadon_daging.JPG",
+  "menusa_0061": "https://upload.wikimedia.org/wikipedia/commons/3/36/Lontong_Sayur_Medan.JPG",
+  "menusa_0073": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ayam_panggang_%281%29.JPG",
+  "menusa_0076": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mangut_Ikan_Pe.jpg",
+  "menusa_0079": "https://upload.wikimedia.org/wikipedia/commons/d/df/Gulai_Ketam.JPG",
+  "menusa_0083": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Soto_Kesawan_Medan.jpg",
+  "menusa_0100": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Pastel_Goreng.jpg",
+};
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
 async function fetchJson<T>(url: string): Promise<T> {
-  const res = await fetch(url, {
-    headers: {
-      // Wikimedia recommends identifying your client in UA; keep it simple.
-      "user-agent": "recipe-image-updater/1.0",
-      "accept": "application/json",
-    },
-  });
+  const res = await fetch(url, { headers: { "user-agent": "recipe-bot/1.0" } });
+  if (!res.ok) throw new Error(`HTTP ${res.status}: ${url}`);
+  return await res.json() as T;
+}
 
-  if (!res.ok) {
-    const body = await res.text().catch(() => "");
-    throw new Error(`HTTP ${res.status} for ${url}\n${body.slice(0, 300)}`);
+async function searchWiki(query: string, lang: string): Promise<string | null> {
+  try {
+    const url = `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&list=search&srsearch=${encodeURIComponent(query)}&origin=*`;
+    const data = await fetchJson<any>(url);
+    const results = data.query?.search || [];
+
+    const exclude = ['temple', 'mosque', 'masjid', 'candi', 'kecamatan', 'kabupaten', 'provinsi', 'village', 'administrative', 'history', 'geography'];
+
+    for (const res of results) {
+      const lowerSnippet = res.snippet.toLowerCase();
+      const hasExclude = exclude.some(word => lowerSnippet.includes(word));
+      if (!hasExclude || res.title.toLowerCase().includes(query.toLowerCase())) {
+        return res.title;
+      }
+    }
+    return results[0]?.title || null;
+  } catch (e) {
+    return null;
   }
-  return (await res.json()) as T;
 }
 
-function normalizeQuery(title: string): string {
-  // Remove parentheses + normalize separators.
-  return title
-    .replace(/\([^)]*\)/g, " ")
-    .replace(/[\/|]+/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-async function wikiSearchFirstTitle(term: string, lang: "id" | "en"): Promise<string | null> {
-  const url =
-    `https://${lang}.wikipedia.org/w/api.php` +
-    `?action=query&list=search&srlimit=1&format=json&origin=*` +
-    `&srsearch=${encodeURIComponent(term)}`;
-
-  const data = await fetchJson<any>(url);
-  const first = data?.query?.search?.[0]?.title;
-  return typeof first === "string" && first.length ? first : null;
-}
-
-async function wikiPageImage(title: string, lang: "id" | "en"): Promise<string | null> {
-  const url =
-    `https://${lang}.wikipedia.org/w/api.php` +
-    `?action=query&prop=pageimages&piprop=original|thumbnail&pithumbsize=${THUMB_WIDTH}` +
-    `&format=json&origin=*` +
-    `&titles=${encodeURIComponent(title)}`;
-
-  const data = await fetchJson<any>(url);
-  const pages = data?.query?.pages ?? {};
-  const page = Object.values(pages)[0] as any;
-  const img =
-    page?.original?.source ||
-    page?.thumbnail?.source;
-
-  return typeof img === "string" && img.startsWith("http") ? img : null;
-}
-
-async function commonsImage(term: string): Promise<string | null> {
-  // Search in File: namespace (6) and return a direct (or thumbnail) URL via imageinfo.
-  const url =
-    `https://commons.wikimedia.org/w/api.php` +
-    `?action=query&generator=search&gsrnamespace=6&gsrlimit=1&format=json&origin=*` +
-    `&gsrsearch=${encodeURIComponent(term)}` +
-    `&prop=imageinfo&iiprop=url&iiurlwidth=${THUMB_WIDTH}`;
-
-  const data = await fetchJson<any>(url);
-  const pages = data?.query?.pages ?? {};
-  const page = Object.values(pages)[0] as any;
-  const ii = page?.imageinfo?.[0];
-  const img = ii?.thumburl || ii?.url;
-  return typeof img === "string" && img.startsWith("http") ? img : null;
-}
-
-async function bestImageFor(title: string): Promise<string | null> {
-  const q = normalizeQuery(title);
-
-  // 1) Indonesian Wikipedia
+async function wikiPageImage(title: string, lang: string, originalTitle: string): Promise<string | null> {
   try {
-    const t = await wikiSearchFirstTitle(q, "id");
-    if (t) {
-      const img = await wikiPageImage(t, "id");
-      if (img) return img;
+    const url = `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages|images&pithumbsize=${THUMB_WIDTH}&titles=${encodeURIComponent(title)}&origin=*`;
+    const data = await fetchJson<any>(url);
+    const page: any = Object.values(data.query.pages)[0];
+
+    // 1. Try PageImage
+    if (page.thumbnail?.source) {
+      const src = page.thumbnail.source.toLowerCase();
+      const exclude = ['icon', 'logo', 'map', 'temple', 'mosque', 'candi', 'masjid', 'stamps', 'document', 'medical', 'flag', 'location', 'administrative'];
+      if (!exclude.some(word => src.includes(word))) return page.thumbnail.source;
     }
-  } catch {}
 
-  // 2) English Wikipedia
-  try {
-    const t = await wikiSearchFirstTitle(q, "en");
-    if (t) {
-      const img = await wikiPageImage(t, "en");
-      if (img) return img;
+    // 2. Try all images on page
+    if (page.images) {
+      const candidates = [];
+      const exclude = ['icon', 'logo', 'map', 'temple', 'mosque', 'candi', 'masjid', 'stamps', 'document', 'medical', 'flag', 'street', 'mountain', 'university', 'school', 'hospital'];
+
+      for (const img of page.images) {
+        const lower = img.title.toLowerCase();
+        if (exclude.some(word => lower.includes(word))) continue;
+        if (!/\.(jpg|jpeg|png)$/i.test(lower)) continue;
+
+        let score = 0;
+        const kw = ['masakan', 'makanan', 'food', 'dish', 'recipe', 'cook', 'soto', 'nasi', 'ayam', 'ikan', 'sayur', 'kue', 'minuman', 'es'];
+        kw.forEach(w => { if (lower.includes(w)) score += 2; });
+
+        const titleWords = originalTitle.toLowerCase().split(' ');
+        titleWords.forEach(w => { if (w.length > 3 && lower.includes(w)) score += 5; });
+
+        candidates.push({ title: img.title, score });
+      }
+
+      candidates.sort((a, b) => b.score - a.score);
+
+      for (const cand of candidates) {
+        const iUrl = `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url&titles=${encodeURIComponent(cand.title)}&origin=*`;
+        const iData = await fetchJson<any>(iUrl);
+        const imgUrl = Object.values(iData.query.pages)[0] as any;
+        const res = imgUrl.imageinfo?.[0]?.url;
+        if (res) return res;
+      }
     }
-  } catch {}
+    return null;
+  } catch (e) {
+    return null;
+  }
+}
 
-  // 3) Commons
-  try {
-    const img = await commonsImage(q);
+async function bestImageFor(rTitle: string): Promise<string | null> {
+  // ID Wiki
+  const idT = await searchWiki(rTitle, 'id');
+  if (idT) {
+    const img = await wikiPageImage(idT, 'id', rTitle);
     if (img) return img;
-  } catch {}
+  }
+
+  // Simple ID
+  const simple = rTitle.split('(')[0].trim();
+  if (simple !== rTitle) {
+    const st = await searchWiki(simple, 'id');
+    if (st) {
+      const img = await wikiPageImage(st, 'id', rTitle);
+      if (img) return img;
+    }
+  }
+
+  // EN Wiki
+  const enT = await searchWiki(rTitle, 'en');
+  if (enT) {
+    const img = await wikiPageImage(enT, 'en', rTitle);
+    if (img) return img;
+  }
 
   return null;
 }
 
-async function mapLimit<T, R>(
-  items: T[],
-  limit: number,
-  fn: (item: T, idx: number) => Promise<R>
-): Promise<R[]> {
+async function mapLimit<T, R>(items: T[], limit: number, fn: (item: T) => Promise<R>): Promise<R[]> {
   const results = new Array<R>(items.length);
   let next = 0;
-
-  async function worker() {
-    while (true) {
+  const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (next < items.length) {
       const i = next++;
-      if (i >= items.length) return;
-      results[i] = await fn(items[i], i);
+      results[i] = await fn(items[i]);
     }
-  }
-
-  const workers = Array.from({ length: Math.min(limit, items.length) }, worker);
+  });
   await Promise.all(workers);
   return results;
 }
 
-async function loadCache(cachePath: string): Promise<Record<string, string>> {
-  try {
-    const raw = await fs.readFile(cachePath, "utf8");
-    const parsed = JSON.parse(raw);
-    return parsed && typeof parsed === "object" ? parsed : {};
-  } catch {
-    return {};
-  }
-}
+function replaceRecipesBlock(source: string, updated: Recipe[]): string {
+  const startMarker = "export const recipes: Recipe[] = [";
+  const startIdx = source.indexOf(startMarker);
+  if (startIdx === -1) throw new Error("Marker not found");
 
-async function saveCache(cachePath: string, cache: Record<string, string>) {
-  await fs.writeFile(cachePath, JSON.stringify(cache, null, 2) + "\n", "utf8");
-}
+  const endMarker = "];";
+  const endIdx = source.indexOf(endMarker, startIdx);
+  if (endIdx === -1) throw new Error("End marker not found");
 
-function replaceRecipesBlock(source: string, updatedRecipes: Recipe[]): string {
-  const startMarker = "export const recipes: Recipe[] =";
-  const start = source.indexOf(startMarker);
-  if (start < 0) throw new Error("Cannot find `export const recipes: Recipe[] =` block.");
+  const before = source.slice(0, startIdx);
+  const after = source.slice(endIdx + endMarker.length);
+  const newContent = `${startMarker}\n${updated.map(r => JSON.stringify(r, null, 2)).join(',\n')}\n];`;
 
-  const openBracket = source.indexOf("[", start);
-  if (openBracket < 0) throw new Error("Cannot find `[` for recipes array.");
-
-  const end = source.indexOf("];", openBracket);
-  if (end < 0) throw new Error("Cannot find `];` end of recipes array.");
-
-  const before = source.slice(0, start);
-  const after = source.slice(end + 2); // keep the trailing semicolon already inside `after`
-
-  const newBlock =
-    `export const recipes: Recipe[] = ${JSON.stringify(updatedRecipes, null, 2)};\n`;
-
-  // Ensure we keep exactly one semicolon before the remaining content:
-  return before + newBlock + after.replace(/^\s*;/, ";");
+  return before + newContent + after;
 }
 
 async function main() {
-  const absRecipeFile = path.resolve(RECIPE_FILE);
-  const absCacheFile = path.resolve(CACHE_FILE);
+  const fullPath = path.resolve(RECIPE_FILE);
+  const mod = await import(pathToFileURL(fullPath).href);
+  const recipes: Recipe[] = mod.recipes;
 
-  const cache = await loadCache(absCacheFile);
+  console.log(`Processing ${recipes.length} recipes...`);
 
-  // Import recipes as real JS objects:
-  const mod = await import(pathToFileURL(absRecipeFile).href);
-  const recipes: Recipe[] = mod?.recipes;
+  let updatedCount = 0;
 
-  if (!Array.isArray(recipes)) {
-    throw new Error("The target file does not export `recipes` as an array.");
-  }
+  const updated = await mapLimit(recipes, CONCURRENCY, async (r) => {
+    try {
+      // Override?
+      if (MANUAL_OVERRIDES[r.id]) {
+        console.log(`[OVERRIDE] ${r.id}: ${r.title}`);
+        updatedCount++;
+        return { ...r, heroImageUrl: MANUAL_OVERRIDES[r.id] };
+      }
 
-  console.log(`Loaded ${recipes.length} recipes from ${absRecipeFile}`);
-  console.log(`Cache: ${absCacheFile}`);
+      // Unsplash update?
+      if (r.heroImageUrl.includes("unsplash.com") || !r.heroImageUrl) {
+        const img = await bestImageFor(r.title);
+        if (img) {
+          console.log(`[FOUND] ${r.id}: ${r.title} -> ${img.slice(0, 50)}...`);
+          updatedCount++;
+          return { ...r, heroImageUrl: img };
+        }
+        console.log(`[NOT_FOUND] ${r.id}: ${r.title}`);
+      }
 
-  const updated = await mapLimit(recipes, CONCURRENCY, async (r, i) => {
-    const cacheKey = r.id || r.title;
-    if (cache[cacheKey]) return { ...r, heroImageUrl: cache[cacheKey] };
-
-    // Be polite with a small delay:
-    if (i > 0) await sleep(SLEEP_MS);
-
-    const img = await bestImageFor(r.title);
-    if (img) {
-      cache[cacheKey] = img;
-      console.log(`[OK]  ${r.title} -> ${img}`);
-      return { ...r, heroImageUrl: img };
+      return r;
+    } catch (err) {
+      console.error(`Error processing recipe ${r.id} (${r.title}):`, err);
+      return r;
     }
-
-    console.log(`[SKIP] ${r.title} (keep existing)`);
-    return r;
   });
 
-  // Persist cache first:
-  await saveCache(absCacheFile, cache);
+  console.log(`Finished processing. Total updated: ${updatedCount}`);
 
-  // Rewrite TS file block:
-  const source = await fs.readFile(absRecipeFile, "utf8");
-  const nextSource = replaceRecipesBlock(source, updated);
-
-  await fs.writeFile(absRecipeFile, nextSource, "utf8");
-
-  console.log("Done ✅  recipes file updated.");
+  if (updatedCount > 0) {
+    try {
+      const source = await fs.readFile(fullPath, "utf8");
+      const nextSource = replaceRecipesBlock(source, updated);
+      await fs.writeFile(fullPath, nextSource, "utf8");
+      console.log(`Successfully updated ${fullPath}`);
+    } catch (err) {
+      console.error("Error writing updated recipes file:", err);
+    }
+  } else {
+    console.log("No images found to update.");
+  }
 }
 
-main().catch((e) => {
-  console.error(e);
+main().catch((err) => {
+  console.error("FATAL ERROR in main:", err);
   process.exit(1);
 });

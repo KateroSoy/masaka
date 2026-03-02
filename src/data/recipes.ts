@@ -57,7 +57,7 @@ export const recipes: Recipe[] = [
       "santan",
       "daging"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
+    "heroImageUrl": "https://instagram.fcgk28-1.fna.fbcdn.net/v/t51.82787-15/639900532_17879227770477048_7276120184972481109_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzg0MzEwODE4MTEwMzMwNzA5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE3Mjh4MTQzOS5zZHIuQzMifQ%3D%3D&_nc_ohc=rsNJs_3YuKAQ7kNvwEvlTb4&_nc_oc=AdlYdhwnrbqfESNA6bIovjG3sooI3WxhzQ2b2qAPAxKLSTncaQ9wVkq-RUC7LALeTUU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fcgk28-1.fna&_nc_gid=wY601IpMad2tHNAU5KtLaQ&_nc_ss=8&oh=00_AfzBhjNDacPxJl09R4B6fn2tc9H6Y1RkYVHYG4Yj7yHoYw&oe=69AB6897",
     "ingredients": [
       {
         "id": "ing_menusa_0001_0",
@@ -188,7 +188,7 @@ export const recipes: Recipe[] = [
       "berbumbu",
       "mie"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Mie_Aceh_with_beef.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0002_0",
@@ -326,7 +326,7 @@ export const recipes: Recipe[] = [
       "santan",
       "ikan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1615141982883-c7da0e698d28?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Tempoyak_Ikan_Patin_2.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0003_0",
@@ -454,7 +454,7 @@ export const recipes: Recipe[] = [
       "ikan",
       "kukus/rebus"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Pempek_Kuah_Cuko.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0004_0",
@@ -547,7 +547,7 @@ export const recipes: Recipe[] = [
       "sup",
       "ikan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tekwan.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0005_0",
@@ -661,7 +661,7 @@ export const recipes: Recipe[] = [
       "ikan",
       "berbumbu"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1615141982883-c7da0e698d28?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Arsik_Ikan_Mas_2.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0006_0",
@@ -782,7 +782,7 @@ export const recipes: Recipe[] = [
       "soto",
       "ayam"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Soto_Banjar_ketupat.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0007_0",
@@ -896,7 +896,7 @@ export const recipes: Recipe[] = [
       "bakar",
       "ayam"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1606683403264-fa065fa1a221?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ayam-cincane.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0008_0",
@@ -1003,7 +1003,7 @@ export const recipes: Recipe[] = [
       "pedas",
       "bakar"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ayam_bakar_khas_Taliwang_2.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0009_0",
@@ -1110,7 +1110,7 @@ export const recipes: Recipe[] = [
       "rempah",
       "ayam"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ayam_Betutu.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0010_0",
@@ -1224,7 +1224,7 @@ export const recipes: Recipe[] = [
       "sate",
       "ikan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Satay_Lilit.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0011_0",
@@ -1331,7 +1331,7 @@ export const recipes: Recipe[] = [
       "berkuah",
       "daging"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kuliner_Coto_Makassar.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0012_0",
@@ -1446,7 +1446,7 @@ export const recipes: Recipe[] = [
       "aromatik",
       "ikan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1615141982883-c7da0e698d28?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Kakap_Woku.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0013_0",
@@ -1567,7 +1567,7 @@ export const recipes: Recipe[] = [
       "sayur",
       "bubur"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1476224203421-9ce39362ea08?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Tinutuan_bubur_Manado.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0014_0",
@@ -1668,7 +1668,7 @@ export const recipes: Recipe[] = [
       "segar",
       "pedas"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Binte_Biluhuta.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0015_0",
@@ -1773,7 +1773,7 @@ export const recipes: Recipe[] = [
       "ikan",
       "berkuah"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0016_0",
@@ -1887,7 +1887,7 @@ export const recipes: Recipe[] = [
       "berkuah",
       "kluwek"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Rawon_Setan.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0017_0",
@@ -2002,7 +2002,7 @@ export const recipes: Recipe[] = [
       "santan",
       "nangka"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1476224203421-9ce39362ea08?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nasi_Gudeg.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0018_0",
@@ -2109,7 +2109,7 @@ export const recipes: Recipe[] = [
       "soto",
       "creamy"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Soto_Betawi_Jakarta_Street_Side_Food.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0019_0",
@@ -2231,7 +2231,7 @@ export const recipes: Recipe[] = [
       "lalap",
       "kacang"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Karedok_platter.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0020_0",
@@ -2356,7 +2356,7 @@ export const recipes: Recipe[] = [
       "santan",
       "nasi"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Nasi_Liwet_Solo.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0021_0",
@@ -2408,7 +2408,7 @@ export const recipes: Recipe[] = [
       "sate",
       "ayam"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Satay_Lilit.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0022_0",
@@ -2460,7 +2460,7 @@ export const recipes: Recipe[] = [
       "pedas",
       "ayam"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Ayam_penyet.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0023_0",
@@ -2512,7 +2512,7 @@ export const recipes: Recipe[] = [
       "bakar",
       "ikan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1615141982883-c7da0e698d28?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gurame_bakar_kecap_1.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0024_0",
@@ -2564,7 +2564,7 @@ export const recipes: Recipe[] = [
       "soto",
       "kuah"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Soto_Kudus_nasi.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0025_0",
@@ -2616,7 +2616,7 @@ export const recipes: Recipe[] = [
       "rujak",
       "khas"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rujak_Cingur.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0026_0",
@@ -2668,7 +2668,7 @@ export const recipes: Recipe[] = [
       "mie",
       "kuah"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mie_Celor.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0027_0",
@@ -2720,7 +2720,7 @@ export const recipes: Recipe[] = [
       "pedas",
       "ayam"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ayam_geprek.png",
     "ingredients": [
       {
         "id": "ing_menusa_0028_0",
@@ -2772,7 +2772,7 @@ export const recipes: Recipe[] = [
       "sate",
       "daging"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sate_Padang2.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0029_0",
@@ -2824,7 +2824,7 @@ export const recipes: Recipe[] = [
       "goreng",
       "ikan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pecel_Lele_1.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0030_0",
@@ -2876,7 +2876,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "santan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nasi_uduk_netherlands.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0031_0",
@@ -2928,7 +2928,7 @@ export const recipes: Recipe[] = [
       "pedas",
       "kuah"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Seblak_3.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0032_0",
@@ -2980,7 +2980,7 @@ export const recipes: Recipe[] = [
       "babi",
       "panggang"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1476224203421-9ce39362ea08?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Babi_guling.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0033_0",
@@ -3032,7 +3032,7 @@ export const recipes: Recipe[] = [
       "daging",
       "kuah manis"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/40._Selat_1.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0034_0",
@@ -3084,7 +3084,7 @@ export const recipes: Recipe[] = [
       "ikan",
       "asam segar"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Pindang_Patin_Palembang_2.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0035_0",
@@ -3136,7 +3136,7 @@ export const recipes: Recipe[] = [
       "goreng",
       "manis gurih"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1606683403264-fa065fa1a221?w=800&q=80",
+    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfPKXje-AvbwucvHofdivBuxOCv80kmxoJzw&s",
     "ingredients": [
       {
         "id": "ing_menusa_0036_0",
@@ -3188,7 +3188,7 @@ export const recipes: Recipe[] = [
       "kacang",
       "sayur"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ketoprak_Boplo.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0037_0",
@@ -3240,7 +3240,7 @@ export const recipes: Recipe[] = [
       "kambing",
       "kuah kental"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Tongseng_Dish.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0038_0",
@@ -3292,7 +3292,7 @@ export const recipes: Recipe[] = [
       "sate",
       "pedas"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sate_taichan_jakarta.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0039_0",
@@ -3344,7 +3344,7 @@ export const recipes: Recipe[] = [
       "soto",
       "kuah bening"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Soto_Mie_Bogor_2.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0040_0",
@@ -3396,7 +3396,7 @@ export const recipes: Recipe[] = [
       "santan",
       "berkuah"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Indonesian_soup-Empal_Gentong-01.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0041_0",
@@ -3448,7 +3448,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "gurih"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nasi_Kuning_Ibu_Sulastri.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0042_0",
@@ -3500,7 +3500,7 @@ export const recipes: Recipe[] = [
       "daging",
       "pedas"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Iga_Penyet.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0043_0",
@@ -3552,7 +3552,7 @@ export const recipes: Recipe[] = [
       "sayur",
       "santan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sayur_lodeh.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0044_0",
@@ -3604,7 +3604,7 @@ export const recipes: Recipe[] = [
       "ayam",
       "santan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Opor_Ayam_Telur_Pindang.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0045_0",
@@ -3656,7 +3656,7 @@ export const recipes: Recipe[] = [
       "sate",
       "kambing"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sate_Buntel.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0046_0",
@@ -3708,7 +3708,7 @@ export const recipes: Recipe[] = [
       "kambing",
       "kuah pedas"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tengkleng.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0047_0",
@@ -3760,7 +3760,7 @@ export const recipes: Recipe[] = [
       "sayur",
       "segar"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Asinan_Betawi_2.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0048_0",
@@ -3812,7 +3812,7 @@ export const recipes: Recipe[] = [
       "telur",
       "panggang"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kerak_telor_Betawi.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0049_0",
@@ -3864,7 +3864,7 @@ export const recipes: Recipe[] = [
       "ikan mentah",
       "segar"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1615141982883-c7da0e698d28?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Gohu_Ikan_in_Ternate.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0050_0",
@@ -3916,7 +3916,7 @@ export const recipes: Recipe[] = [
       "daging",
       "manis gurih"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Empal_Gepuk.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0051_0",
@@ -3968,7 +3968,7 @@ export const recipes: Recipe[] = [
       "soto",
       "rempah"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Soto_Banjar_ketupat.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0052_0",
@@ -4020,7 +4020,7 @@ export const recipes: Recipe[] = [
       "goreng",
       "rempah daun"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Masakan_Khas_Kota_Aceh_Ayam_Tangkap.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0053_0",
@@ -4072,7 +4072,7 @@ export const recipes: Recipe[] = [
       "ikan asap",
       "pedas"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cakalang_fufu.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0054_0",
@@ -4124,7 +4124,7 @@ export const recipes: Recipe[] = [
       "pedas",
       "kemangi"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kakap_Woku.JPG/1280px-Kakap_Woku.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0055_0",
@@ -4176,7 +4176,7 @@ export const recipes: Recipe[] = [
       "soto",
       "bubuk koya"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Soto_Lamongan.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0056_0",
@@ -4228,7 +4228,7 @@ export const recipes: Recipe[] = [
       "kukus",
       "santan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
+    "heroImageUrl": "https://awsimages.detik.net.id/community/media/visual/2021/11/08/resep-gadon-daging-khas-jawa_43.jpeg",
     "ingredients": [
       {
         "id": "ing_menusa_0057_0",
@@ -4280,7 +4280,7 @@ export const recipes: Recipe[] = [
       "santan",
       "pedas"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Krecek_Yogyakarta.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0058_0",
@@ -4332,7 +4332,7 @@ export const recipes: Recipe[] = [
       "sate",
       "saus tempe"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sate_Ponorogo.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0059_0",
@@ -4384,7 +4384,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "lengkap"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Plate_of_nasi_campur_%28Mandarin_Oriental_Hotel_Mahapahit%2C_Surabaya%2C_Indonesia%29.png",
     "ingredients": [
       {
         "id": "ing_menusa_0060_0",
@@ -4436,7 +4436,7 @@ export const recipes: Recipe[] = [
       "santan",
       "lontong"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
+    "heroImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNe8fEQrsVcap2IUVZREiFDlJsYKtpdpawQ&s",
     "ingredients": [
       {
         "id": "ing_menusa_0061_0",
@@ -4488,7 +4488,7 @@ export const recipes: Recipe[] = [
       "sayur",
       "gulai"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Gulai_ayam.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0062_0",
@@ -4540,7 +4540,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "kuah daging"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nasi_Langgi-By_Post_kofee_Kepanjen-Kab._Malang.jpg/1280px-Nasi_Langgi-By_Post_kofee_Kepanjen-Kab._Malang.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0063_0",
@@ -4592,7 +4592,7 @@ export const recipes: Recipe[] = [
       "sate",
       "manis"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sate_Maranggi_1.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0064_0",
@@ -4644,7 +4644,7 @@ export const recipes: Recipe[] = [
       "lontong",
       "segar"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lontong_Balap.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0065_0",
@@ -4696,7 +4696,7 @@ export const recipes: Recipe[] = [
       "ayam",
       "santan bakar"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nasi_Kuning_Khas_Gorontalo.jpg/1280px-Nasi_Kuning_Khas_Gorontalo.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0066_0",
@@ -4748,7 +4748,7 @@ export const recipes: Recipe[] = [
       "ketupat",
       "tahu"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1627308595229-7830ceeb6386?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kupat_Tahu_12_Pas_Padalarang.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0067_0",
@@ -4800,7 +4800,7 @@ export const recipes: Recipe[] = [
       "berkuah",
       "iga"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sop_Konro.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0068_0",
@@ -4852,7 +4852,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "jagung kering"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nasi_jagung_130116-33814_bli.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0069_0",
@@ -4904,7 +4904,7 @@ export const recipes: Recipe[] = [
       "sayur",
       "pedas segar"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pelecing_kangkung.JPG/1280px-Pelecing_kangkung.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0070_0",
@@ -4956,7 +4956,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "daging kelapa"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Krawu_rice.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0071_0",
@@ -5008,7 +5008,7 @@ export const recipes: Recipe[] = [
       "rujak",
       "soto"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/id/a/a8/Rujak_soto.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0072_0",
@@ -5060,7 +5060,7 @@ export const recipes: Recipe[] = [
       "ayam",
       "panggang santan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ayam_panggang_%281%29.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0073_0",
@@ -5112,7 +5112,7 @@ export const recipes: Recipe[] = [
       "daging",
       "lapis kecap"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Katzs_deli_corned_beef.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0074_0",
@@ -5164,7 +5164,7 @@ export const recipes: Recipe[] = [
       "ayam",
       "asam segar"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Garang_asem_Pj.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0075_0",
@@ -5216,7 +5216,7 @@ export const recipes: Recipe[] = [
       "ikan asap",
       "santan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
+    "heroImageUrl": "https://kabarbaik.co/wp-content/uploads/2024/06/manggut-ikan-pe.jpeg",
     "ingredients": [
       {
         "id": "ing_menusa_0076_0",
@@ -5268,7 +5268,7 @@ export const recipes: Recipe[] = [
       "tahu goreng",
       "petis"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1627308595229-7830ceeb6386?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tahu_telur_in_Banyuwangi.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0077_0",
@@ -5320,7 +5320,7 @@ export const recipes: Recipe[] = [
       "ayam",
       "bumbu rujak"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Ayam_bumbu_rujak.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0078_0",
@@ -5372,7 +5372,7 @@ export const recipes: Recipe[] = [
       "kepiting",
       "kare"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Gulai_Ketam.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0079_0",
@@ -5424,7 +5424,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "ayam suwir"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Nasi_Langgi-By_Post_kofee_Kepanjen-Kab._Malang.jpg/1280px-Nasi_Langgi-By_Post_kofee_Kepanjen-Kab._Malang.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0080_0",
@@ -5476,7 +5476,7 @@ export const recipes: Recipe[] = [
       "mie",
       "kikil sapi"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mie_Kocok_Bandung.jpg/1280px-Mie_Kocok_Bandung.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0081_0",
@@ -5528,7 +5528,7 @@ export const recipes: Recipe[] = [
       "sate",
       "sapi cincang"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sate_Ponorogo.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0082_0",
@@ -5580,7 +5580,7 @@ export const recipes: Recipe[] = [
       "soto berkuah",
       "udang"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Soto_Kesawan_Medan.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0083_0",
@@ -5632,7 +5632,7 @@ export const recipes: Recipe[] = [
       "nasi tradisional",
       "singkong"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tiwul_Gula_Merah.jpg/1280px-Tiwul_Gula_Merah.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0084_0",
@@ -5684,7 +5684,7 @@ export const recipes: Recipe[] = [
       "bumbu kacang",
       "jajanan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kadaharan_urang_sunda.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0085_0",
@@ -5736,7 +5736,7 @@ export const recipes: Recipe[] = [
       "dadar tepung",
       "santan gurih"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1476224203421-9ce39362ea08?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Burgo_1.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0086_0",
@@ -5788,7 +5788,7 @@ export const recipes: Recipe[] = [
       "buah",
       "asam manis pendamping"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sop_Ikan_Asam_Pedas_Batam.jpg/1280px-Sop_Ikan_Asam_Pedas_Batam.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0087_0",
@@ -5840,7 +5840,7 @@ export const recipes: Recipe[] = [
       "jengkol",
       "kecap manis"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Resep_cara_membuat_semur_jengkol_pedas_yang_yummy.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0088_0",
@@ -5892,7 +5892,7 @@ export const recipes: Recipe[] = [
       "iga tulang",
       "segar nanas"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1476224203421-9ce39362ea08?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Pindang_Patin_Palembang_2.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0089_0",
@@ -5944,7 +5944,7 @@ export const recipes: Recipe[] = [
       "ayam pucat",
       "minang kelapa"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chicken_February_2009-1.jpg/1280px-Chicken_February_2009-1.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0090_0",
@@ -5996,7 +5996,7 @@ export const recipes: Recipe[] = [
       "kue manis",
       "jajanan pasar"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kue_pancong_di_pasar_Rantepao.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0091_0",
@@ -6048,7 +6048,7 @@ export const recipes: Recipe[] = [
       "ketan",
       "kue asin"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lemper.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0092_0",
@@ -6100,7 +6100,7 @@ export const recipes: Recipe[] = [
       "kue basah",
       "santan gurih"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jajan_Pasar_in_Jakarta_edit.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0093_0",
@@ -6152,7 +6152,7 @@ export const recipes: Recipe[] = [
       "manis",
       "ubi jalar"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/JackfruitKolak.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0094_0",
@@ -6204,7 +6204,7 @@ export const recipes: Recipe[] = [
       "gurih kenyal",
       "tanpa ikan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Pempek_Kuah_Cuko.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0095_0",
@@ -6256,7 +6256,7 @@ export const recipes: Recipe[] = [
       "kenyal",
       "gorengan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cireng_di_kafe.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0096_0",
@@ -6308,7 +6308,7 @@ export const recipes: Recipe[] = [
       "goreng ranyah",
       "jajanan gurih"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pastellkreide_--_2025_--_8665.jpg/1280px-Pastellkreide_--_2025_--_8665.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0097_0",
@@ -6360,7 +6360,7 @@ export const recipes: Recipe[] = [
       "manis legit",
       "kue basah"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Klepon_Khas_Tulungagung.jpg/1280px-Klepon_Khas_Tulungagung.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0098_0",
@@ -6412,7 +6412,7 @@ export const recipes: Recipe[] = [
       "gorengan",
       "gurih creamy"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Risole2.jpg/1280px-Risole2.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0099_0",
@@ -6464,7 +6464,7 @@ export const recipes: Recipe[] = [
       "kue talam",
       "pandan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Pastel_Goreng.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0100_0",
@@ -6516,7 +6516,7 @@ export const recipes: Recipe[] = [
       "es",
       "manis segar"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Es_Dawet.jpg/1280px-Es_Dawet.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0101_0",
@@ -6568,7 +6568,7 @@ export const recipes: Recipe[] = [
       "wedang hangat",
       "jahe"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wedang_Ronde_di_Telaga_Sarangan.jpg/1280px-Wedang_Ronde_di_Telaga_Sarangan.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0102_0",
@@ -6620,7 +6620,7 @@ export const recipes: Recipe[] = [
       "es segar",
       "jeruk nipis"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Javanese_Kopi_Tubruk.jpg/1280px-Javanese_Kopi_Tubruk.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0103_0",
@@ -6672,7 +6672,7 @@ export const recipes: Recipe[] = [
       "es pisang",
       "manis dingin"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Es_pisang_ijo.jpg/1280px-Es_pisang_ijo.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0104_0",
@@ -6724,7 +6724,7 @@ export const recipes: Recipe[] = [
       "wedang",
       "rempah kencang"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandrek_Bandung.JPG/1280px-Bandrek_Bandung.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0105_0",
@@ -6776,7 +6776,7 @@ export const recipes: Recipe[] = [
       "es",
       "hunkwe manis"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Es_selendang_mayang.JPG/1280px-Es_selendang_mayang.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0106_0",
@@ -6828,7 +6828,7 @@ export const recipes: Recipe[] = [
       "rempah",
       "minuman kesehatan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wedang_Uwuh_Jawa.jpg/1280px-Wedang_Uwuh_Jawa.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0107_0",
@@ -6880,7 +6880,7 @@ export const recipes: Recipe[] = [
       "es cendol",
       "gula aren"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cendol_pulut.jpg/1280px-Cendol_pulut.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0108_0",
@@ -6932,7 +6932,7 @@ export const recipes: Recipe[] = [
       "santan hangat",
       "kopi"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bajigur_DSC_1981.jpg/1224px-Bajigur_DSC_1981.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0109_0",
@@ -6984,7 +6984,7 @@ export const recipes: Recipe[] = [
       "teh",
       "penambah stamina"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Teh_talua_%28cropped%29.JPG/1280px-Teh_talua_%28cropped%29.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0110_0",
@@ -7037,7 +7037,7 @@ export const recipes: Recipe[] = [
       "manis hangat",
       "ramadhan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pisangcokelat.jpg/1280px-Pisangcokelat.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0111_0",
@@ -7090,7 +7090,7 @@ export const recipes: Recipe[] = [
       "es manis",
       "ramadhan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rujak_Buah_%28Indonesian_Fruit_Salad%29.JPG/1280px-Rujak_Buah_%28Indonesian_Fruit_Salad%29.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0112_0",
@@ -7143,7 +7143,7 @@ export const recipes: Recipe[] = [
       "es buah",
       "ramadhan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TTG_MASAKAN_INDONESIA_Edisi_2.djvu/page1-1200px-TTG_MASAKAN_INDONESIA_Edisi_2.djvu.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0113_0",
@@ -7250,7 +7250,7 @@ export const recipes: Recipe[] = [
       "ayam",
       "ramadhan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nasi_yang_berisikan_kentang_balado%2C_dan_kentan_mustofa_khas_warteg.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0115_0",
@@ -7304,7 +7304,7 @@ export const recipes: Recipe[] = [
       "telur",
       "ramadhan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1476224203421-9ce39362ea08?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nasi_Goreng_Kampung_%2811967588375%29.jpg/1280px-Nasi_Goreng_Kampung_%2811967588375%29.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0116_0",
@@ -7357,7 +7357,7 @@ export const recipes: Recipe[] = [
       "hari raya",
       "ramadhan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Opor_Ayam_Telur_Pindang.JPG/1280px-Opor_Ayam_Telur_Pindang.JPG",
     "ingredients": [
       {
         "id": "ing_menusa_0117_0",
@@ -7410,7 +7410,7 @@ export const recipes: Recipe[] = [
       "pedas",
       "ramadhan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Food_Sundanese_Restaurant%2C_Jakarta.jpg/1280px-Food_Sundanese_Restaurant%2C_Jakarta.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0118_0",
@@ -7463,7 +7463,7 @@ export const recipes: Recipe[] = [
       "es campur",
       "ramadhan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Es_Campur.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0119_0",
@@ -7516,7 +7516,7 @@ export const recipes: Recipe[] = [
       "kuah segar",
       "ramadhan"
     ],
-    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
+    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Soup_Macaroni_in_Hong_Kong.jpg",
     "ingredients": [
       {
         "id": "ing_menusa_0120_0",
@@ -7556,3 +7556,6 @@ export const recipes: Recipe[] = [
     }
   }
 ];
+
+
+
