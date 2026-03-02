@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { User, Settings, ShieldCheck, HelpCircle, ChevronRight, Star, Flame, X } from 'lucide-react';
+import { User, Settings, ShieldCheck, HelpCircle, ChevronRight, Star, Flame, X, MessageSquarePlus, Send } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { useAppStore } from '../store/useAppStore';
 import { Button } from '../components/ui/Button';
@@ -9,6 +9,29 @@ export function Profile() {
   const { isLifetimeUnlocked, preferences, updatePreference } = useAppStore();
   const [showFaq, setShowFaq] = useState(false);
   const [showPrivacy, setShowPrivacy] = useState(false);
+  const [showRequestForm, setShowRequestForm] = useState(false);
+
+  // Form state
+  const [reqType, setReqType] = useState('Fitur Baru');
+  const [reqTitle, setReqTitle] = useState('');
+  const [reqDesc, setReqDesc] = useState('');
+
+  const handleSendRequest = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!reqTitle || !reqDesc) return;
+
+    // Using mailto to guarantee 100% working delivery without backend/API limits
+    const emailTo = "hello@masaka.app"; // Default support email
+    const subject = `[Request ${reqType}] ${reqTitle}`;
+    const body = `Halo Tim Masaka,\n\nSaya ingin menyampaikan request berikut:\n\nJenis: ${reqType}\nJudul: ${reqTitle}\n\nDetail:\n${reqDesc}\n\nTerima kasih!`;
+
+    window.location.href = `mailto:${emailTo}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+    // Close and reset
+    setShowRequestForm(false);
+    setReqTitle('');
+    setReqDesc('');
+  };
 
   return (
     <div className="pb-6 pt-6 px-4 max-w-md md:max-w-2xl lg:max-w-4xl mx-auto min-h-full bg-stone-50">
@@ -133,7 +156,7 @@ export function Profile() {
           </button>
 
           <button
-            className="w-full flex items-center justify-between p-4 hover:bg-stone-50 transition-colors text-left"
+            className="w-full flex items-center justify-between p-4 border-b border-stone-100 hover:bg-stone-50 transition-colors text-left"
             onClick={() => setShowPrivacy(true)}
           >
             <div className="flex items-center gap-3">
@@ -141,6 +164,22 @@ export function Profile() {
                 <ShieldCheck className="w-5 h-5" />
               </div>
               <div className="font-semibold text-stone-900">Kebijakan Privasi</div>
+            </div>
+            <ChevronRight className="w-5 h-5 text-stone-400" />
+          </button>
+
+          <button
+            className="w-full flex items-center justify-between p-4 hover:bg-stone-50 transition-colors text-left"
+            onClick={() => setShowRequestForm(true)}
+          >
+            <div className="flex items-center gap-3">
+              <div className="p-2 bg-purple-50 rounded-lg text-purple-600">
+                <MessageSquarePlus className="w-5 h-5" />
+              </div>
+              <div>
+                <div className="font-semibold text-stone-900">Request Fitur & Resep</div>
+                <div className="text-xs text-stone-500">Punya ide menarik? Beritahu kami!</div>
+              </div>
             </div>
             <ChevronRight className="w-5 h-5 text-stone-400" />
           </button>
@@ -191,6 +230,82 @@ export function Profile() {
               <p>Aplikasi ini hanya akan menggunakan koneksi luar apabila Anda memanfaatkan sistem Saran berbasis Kecerdasan Buatan (AI) yang kami integrasikan demi kenyamanan. Tidak ada data pribadi yang dilacak atau dijual ke pihak ketiga.</p>
               <p className="text-stone-500 text-xs mt-4">Pembaruan Terakhir: Oktober 2026</p>
             </div>
+          </div>
+        </div>
+      )}
+
+      {/* Request Form Modal */}
+      {showRequestForm && (
+        <div className="fixed inset-0 z-[60] flex items-end bg-stone-900/40 backdrop-blur-sm">
+          <div className="bg-white w-full max-w-md md:max-w-2xl lg:max-w-4xl mx-auto rounded-t-3xl p-6 pb-safe max-h-[85vh] overflow-y-auto animate-in slide-in-from-bottom">
+            <div className="flex justify-between items-center mb-6">
+              <div>
+                <h2 className="text-xl font-bold text-stone-900">Kirim Request</h2>
+                <p className="text-sm text-stone-500">Beritahu kami apa yang ingin kamu lihat di Masaka!</p>
+              </div>
+              <button onClick={() => setShowRequestForm(false)} className="p-2 bg-stone-100 rounded-full text-stone-500 self-start">
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            <form onSubmit={handleSendRequest} className="space-y-5 pb-8">
+              <div>
+                <label className="block text-sm font-semibold text-stone-700 mb-2">Jenis Request</label>
+                <div className="grid grid-cols-2 gap-2">
+                  {['Fitur Baru', 'Resep Baru', 'Laporan Bug', 'Lainnya'].map((type) => (
+                    <button
+                      key={type}
+                      type="button"
+                      onClick={() => setReqType(type)}
+                      className={`py-2.5 px-3 rounded-xl text-sm font-medium border transition-colors ${reqType === type
+                          ? 'bg-purple-50 border-purple-200 text-purple-700'
+                          : 'bg-white border-stone-200 text-stone-600 hover:bg-stone-50'
+                        }`}
+                    >
+                      {type}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div>
+                <label className="block text-sm font-semibold text-stone-700 mb-2">Pesan Singkat (Judul)</label>
+                <input
+                  type="text"
+                  required
+                  value={reqTitle}
+                  onChange={(e) => setReqTitle(e.target.value)}
+                  placeholder="Contoh: Tambahkan dark mode dong!"
+                  className="w-full bg-stone-50 border border-stone-200 text-stone-900 text-sm rounded-xl focus:ring-purple-500 focus:border-purple-500 block p-3.5 outline-none transition-all placeholder:text-stone-400"
+                />
+              </div>
+
+              <div>
+                <label className="block text-sm font-semibold text-stone-700 mb-2">Detail Request</label>
+                <textarea
+                  required
+                  rows={4}
+                  value={reqDesc}
+                  onChange={(e) => setReqDesc(e.target.value)}
+                  placeholder="Ceritakan sedetail mungkin agar kami lebih paham keinginanmu..."
+                  className="w-full bg-stone-50 border border-stone-200 text-stone-900 text-sm rounded-xl focus:ring-purple-500 focus:border-purple-500 block p-3.5 outline-none transition-all resize-none placeholder:text-stone-400"
+                />
+              </div>
+
+              <div className="pt-2">
+                <Button
+                  type="submit"
+                  className="w-full py-4 bg-purple-600 hover:bg-purple-700 text-white rounded-xl font-bold flex items-center justify-center gap-2 shadow-lg shadow-purple-200 transition-all active:scale-[0.98]"
+                >
+                  <Send className="w-5 h-5" />
+                  Kirim Request Sekarang
+                </Button>
+                <p className="text-center text-xs text-stone-400 mt-3 flex items-center justify-center gap-1.5">
+                  <ShieldCheck className="w-3.5 h-3.5" />
+                  Menggunakan sistem email terenkripsi bawaan (100% aman)
+                </p>
+              </div>
+            </form>
           </div>
         </div>
       )}

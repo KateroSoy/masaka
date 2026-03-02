@@ -57,7 +57,7 @@ export const recipes: Recipe[] = [
       "santan",
       "daging"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Potongan_daging_sapi.svg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0001_0",
@@ -188,7 +188,7 @@ export const recipes: Recipe[] = [
       "berbumbu",
       "mie"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Mie_Aceh_with_beef.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0002_0",
@@ -326,7 +326,7 @@ export const recipes: Recipe[] = [
       "santan",
       "ikan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Tempoyak_Ikan_Patin_2.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1615141982883-c7da0e698d28?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0003_0",
@@ -454,7 +454,7 @@ export const recipes: Recipe[] = [
       "ikan",
       "kukus/rebus"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Pempek_Kuah_Cuko.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0004_0",
@@ -547,7 +547,7 @@ export const recipes: Recipe[] = [
       "sup",
       "ikan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tekwan.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0005_0",
@@ -661,7 +661,7 @@ export const recipes: Recipe[] = [
       "ikan",
       "berbumbu"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Arsik_Ikan_Mas_2.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1615141982883-c7da0e698d28?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0006_0",
@@ -782,7 +782,7 @@ export const recipes: Recipe[] = [
       "soto",
       "ayam"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Soto_Banjar_ketupat.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0007_0",
@@ -896,7 +896,7 @@ export const recipes: Recipe[] = [
       "bakar",
       "ayam"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ayam-cincane.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1606683403264-fa065fa1a221?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0008_0",
@@ -1003,7 +1003,7 @@ export const recipes: Recipe[] = [
       "pedas",
       "bakar"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ayam_bakar_khas_Taliwang_2.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0009_0",
@@ -1110,7 +1110,7 @@ export const recipes: Recipe[] = [
       "rempah",
       "ayam"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ayam_Betutu.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0010_0",
@@ -1224,7 +1224,7 @@ export const recipes: Recipe[] = [
       "sate",
       "ikan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Satay_Lilit.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0011_0",
@@ -1331,7 +1331,7 @@ export const recipes: Recipe[] = [
       "berkuah",
       "daging"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kuliner_Coto_Makassar.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0012_0",
@@ -1446,7 +1446,7 @@ export const recipes: Recipe[] = [
       "aromatik",
       "ikan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Kakap_Woku.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1615141982883-c7da0e698d28?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0013_0",
@@ -1567,7 +1567,7 @@ export const recipes: Recipe[] = [
       "sayur",
       "bubur"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Tinutuan_bubur_Manado.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1476224203421-9ce39362ea08?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0014_0",
@@ -1668,7 +1668,7 @@ export const recipes: Recipe[] = [
       "segar",
       "pedas"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Binte_Biluhuta.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0015_0",
@@ -1773,7 +1773,7 @@ export const recipes: Recipe[] = [
       "ikan",
       "berkuah"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0016_0",
@@ -1887,7 +1887,7 @@ export const recipes: Recipe[] = [
       "berkuah",
       "kluwek"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Rawon_Setan.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0017_0",
@@ -2002,7 +2002,7 @@ export const recipes: Recipe[] = [
       "santan",
       "nangka"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nasi_Gudeg.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1476224203421-9ce39362ea08?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0018_0",
@@ -2109,7 +2109,7 @@ export const recipes: Recipe[] = [
       "soto",
       "creamy"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Soto_Betawi_Jakarta_Street_Side_Food.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0019_0",
@@ -2231,7 +2231,7 @@ export const recipes: Recipe[] = [
       "lalap",
       "kacang"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Karedok_platter.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0020_0",
@@ -2356,7 +2356,7 @@ export const recipes: Recipe[] = [
       "santan",
       "nasi"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Nasi_Liwet_Solo.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0021_0",
@@ -2368,7 +2368,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak beras dengan santan."
+        "text": "Panaskan daun pisang di atas api kecil perlahan agar layu dan tidak mudah sobek saat membungkus nasi. Sisihkan daun yang sudah layu dan bersihkan permukaannya."
+      },
+      {
+        "text": "Panaskan 3 sendok makan minyak goreng di wajan dengan api sedang. Tumis bumbu halus (bawang merah, bawang putih, cabai, kemiri) hingga harum dan matang. Aduk terus selama 4-5 menit agar bumbu tidak gosong dan mengeluarkan aroma wangi."
+      },
+      {
+        "text": "Masukkan daun jeruk, serai memar, dan lengkuas ke dalam tumisan bumbu. Masak hingga dedaunan layu dan minyak mulai terpisah dari bumbu, menandakan bumbu sudah benar-benar matang."
+      },
+      {
+        "text": "Masukkan suwiran ikan cakalang asap ke dalam wajan. Aduk rata hingga seluruh suwiran ikan terbalut bumbu. Tuangkan sedikit air agar bumbu meresap, masak hingga agak kering selama kurang lebih 5-7 menit."
+      },
+      {
+        "text": "Siapkan selembar daun pisang, letakkan sekepal nasi putih matang di atasnya, ratakan perlahan. Letakkan tumisan cakalang di tengah nasi, pastikan isian tertutup rapi oleh nasi. Gulung dan sematkan lidi di kedua ujungnya."
+      },
+      {
+        "text": "Panaskan pemanggang atau teflon datar dengan api sedang. Bakar bungkusan nasi selama 10-15 menit sambil sesekali dibalik hingga daun pisang terlihat kecokelatan kehitaman dan mengeluarkan aroma sedap terbakar. Sajikan selagi hangat."
       }
     ],
     "tips": [],
@@ -2393,7 +2408,7 @@ export const recipes: Recipe[] = [
       "sate",
       "ayam"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Satay_Lilit.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0022_0",
@@ -2405,7 +2420,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Lilitkan ayam pada batang serai."
+        "text": "Bersihkan satu ekor ayam utuh dari kotoran dan jeroan, lalu lumuri dengan perasan air jeruk nipis dan garam secukupnya. Diamkan selama 15 menit agar bau amis hilang, kemudian bilas hingga bersih dan tiriskan."
+      },
+      {
+        "text": "Haluskan bumbu base genep khas Bali yang terdiri dari bawang merah, bawang putih, cabai rawit, cabai merah, kunyit bakar, jahe, kencur, lengkuas, serai, terasi bakar, ketumbar, dan merica. Tambahkan 2 sendok makan minyak kelapa dan aduk rata."
+      },
+      {
+        "text": "Balurkan seluruh bumbu halus ke permukaan luar dan dalam perut ayam secara merata. Pijat-pijat perlahan agar bumbu lebih meresap ke dalam pori-pori kulit ayam."
+      },
+      {
+        "text": "Bungkus ayam yang sudah dibumbui menggunakan daun pisang atau daun pinang. Pastikan bungkusan rapat dan ikat kuat menggunakan tali serat pisang agar uap dan bumbu tidak keluar saat proses memasak."
+      },
+      {
+        "text": "Kukus ayam yang telah dibungkus daun dalam kukusan yang sudah dipanaskan dengan api sedang selama 1,5 hingga 2 jam. Pastikan air kukusan cukup agar ayam matang sempurna dan bumbu meresap hingga ke tulang."
+      },
+      {
+        "text": "Setelah dikukus, keluarkan ayam dan panggang di atas bara api sedang atau teflon selama 15-20 menit hingga daun pembungkus agak kering dan aroma panggang keluar. Buka daunnya perlahan dan sajikan Betutu dalam keadaan hangat."
       }
     ],
     "tips": [],
@@ -2430,7 +2460,7 @@ export const recipes: Recipe[] = [
       "pedas",
       "ayam"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Ayam_penyet.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0023_0",
@@ -2442,7 +2472,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Goreng ayam lalu penyet dengan sambal."
+        "text": "Siapkan daging ikan tenggiri giling, ayam giling, atau daging babi giling laut segar. Cincang halus hingga teksturnya lembut dan mudah menempel saat dililit."
+      },
+      {
+        "text": "Panaskan 2 sendok makan minyak kelapa dengan api sedang, lalu tumis bumbu halus (bawang merah, bawang putih, kunyit, jahe, kencur, cabai merah, dan terasi) selama 4-5 menit. Tumis hingga harum dan bumbu benar-benar matang agar sate tidak langu."
+      },
+      {
+        "text": "Campurkan bumbu basah ke dalam daging giling, lalu tambahkan kelapa parut setengah tua, santan kental, garam, dan irisan tipis daun jeruk. Aduk menggunakan tangan perlahan hingga adonan kalis dan rempah tercampur sempurna."
+      },
+      {
+        "text": "Ambil sejumput adonan daging (sekitar 30-40 gram), lalu kepalkan dan lilitkan dengan kokoh pada sebatang serai utuh atau tusuk sate pipih besar. Tekan pelan-pelan sambil diputar agar lilitan menempel sempurna dan tidak mudah lepas."
+      },
+      {
+        "text": "Siapkan pemanggang arang atau teflon panas, olesi sedikit minyak. Panggang sate lilit dengan api sedang. Bolak-balik setiap 2-3 menit agar matang berlahan dan daging tidak gosong di satu sisi saja."
+      },
+      {
+        "text": "Panggang hingga permukaan sate berubah warna kecokelatan, sedikit terkaramelisasi, dan serai mulai mengeluarkan aroma sitrus yang harum. Angkat sate perlahan, dan sajikan bersama sambal matah segar."
       }
     ],
     "tips": [],
@@ -2467,7 +2512,7 @@ export const recipes: Recipe[] = [
       "bakar",
       "ikan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gurame_bakar_kecap_1.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1615141982883-c7da0e698d28?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0024_0",
@@ -2479,7 +2524,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Bakar ikan dengan bumbu khas Jimbaran."
+        "text": "Belah satu ekor ayam kampung muda pada bagian dada hingga terbuka lebar (bekakak), lalu tekan dan lebarkan. Lumuri ayam dengan perasan jeruk nipis dan garam, lalu diamkan 15 menit."
+      },
+      {
+        "text": "Bakar ayam setengah matang di atas bara api sedang selama kurang lebih 10 menit. Bolak-balik hingga permukaan kulitnya kaku dan sedikit berubah warna, lalu angkat."
+      },
+      {
+        "text": "Haluskan bahan bumbu: bawang merah, bawang putih, cabai merah besar, cabai rawit pedas, terasi Lombok bakar, kemiri sangrai, kencur, garam, dan gula merah. Panaskan 3 sendok makan minyak dan tumis bumbu halus tersebut hingga harum dan matang dengan api sedang-kecil (sekitar 5-7 menit)."
+      },
+      {
+        "text": "Tuangkan sedikit air atau air perasan jeruk limau ke dalam tumisan bumbu, lalu masak kembali hingga mengental. Angkat bumbu dan biarkan hangat."
+      },
+      {
+        "text": "Oleskan bumbu matang secara merata ke seluruh permukaan ayam yang sudah dibakar setengah matang, pastikan bagian dalam dan celah-celahnya terlumuri bumbu tebal."
+      },
+      {
+        "text": "Bakar kembali ayam berbumbu di atas bara api kecil-sedang. Terus olesi sisa bumbu setiap kali membalik ayam. Masak sekitar 15-20 menit hingga bumbu meresap sempurna, keriting, dan kulitnya harum terpanggang. Sajikan bersama plecing kangkung."
       }
     ],
     "tips": [],
@@ -2504,7 +2564,7 @@ export const recipes: Recipe[] = [
       "soto",
       "kuah"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Soto_Kudus_nasi.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0025_0",
@@ -2516,7 +2576,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus kaldu ayam dan sajikan dengan kuah bening."
+        "text": "Bersihkan potongan bebek dari kotoran dan bulu-bulu halus. Rebus bebek dalam air mendidih bersama beberapa lembar daun jeruk, jahe memar, dan lengkuas memar selama 15 menit untuk menghilangkan bau amis, lalu buang air rebusan pertama dan tiriskan bebek."
+      },
+      {
+        "text": "Haluskan bumbu ungkep: bawang merah, bawang putih, ketumbar sangrai, kemiri, kunyit, jahe, lengkuas, serai, daun jeruk purut, garam, dan bubuk kaldu ayam. Pastikan bumbu dihaluskan dengan sempurna agar bisa meresap ke serat daging."
+      },
+      {
+        "text": "Campurkan potongan bebek dengan bumbu halus di dalam wajan atau panci presto. Tuangkan air secukupnya hingga menutupi permukaan bebek. Masak dengan api sedang selama 1 jam hingga 1,5 jam (atau 30 menit jika menggunakan presto) hingga daging bebek benar-benar empuk dan air menyusut habis."
+      },
+      {
+        "text": "Panaskan banyak minyak goreng di wajan besar dengan api sedang menjurus besar. Setelah minyak benar-benar panas, masukkan potongan bebek yang telah diungkep secara perlahan agar minyak tidak terpercik."
+      },
+      {
+        "text": "Goreng bebek hingga permukaan luar terlihat garing, berwarna kecokelatan tua, namun tidak sampai gosong (berkisar 5-7 menit setiap sisinya). Angkat dan tiriskan di atas kertas tisu makanan agar sisa minyak terserap."
+      },
+      {
+        "text": "Untuk membuat sambal pencit: ulek kasar cabai rawit, terasi bakar, dan sedikit garam. Kupas mangga muda (pencit), cincang atau serut kasar daging buahnya, lalu campur rata dengan ulekan cabai. Sajikan bebek goreng hangat beserta serundeng bumbu dan sambal pencit."
       }
     ],
     "tips": [],
@@ -2541,7 +2616,7 @@ export const recipes: Recipe[] = [
       "rujak",
       "khas"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rujak_Cingur.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0026_0",
@@ -2553,7 +2628,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Campur cingur dengan sayuran dan bumbu petis."
+        "text": "Siapkan potongan iga sapi lokal, lalu cuci bersih di bawah air mengalir. Rebus iga dengan air mendidih selama 5-10 menit, setelah itu buang air rebusan kotor untuk menghilangkan darah yang membeku."
+      },
+      {
+        "text": "Panaskan kembali 1,5 liter air hingga mendidih di dalam panci. Masukkan iga sapi, tambahkan serai memar, daun jeruk, jahe memar, dan lengkuas. Rebus iga dengan api kecil-sedang (simmer) sampai daging menempel pada tulang menjadi sangat empuk (bisa memakan waktu 1,5 hingga 2 jam)."
+      },
+      {
+        "text": "Kupas buah kluwek, ambil isinya dan rendam dalam air panas selama 10 menit agar lunak. Haluskan bawang merah, bawang putih, cabai merah, ketumbar sangrai, merica, jintan, pala, dan isi kluwek tersebut hingga berbentuk pasta halus."
+      },
+      {
+        "text": "Panaskan 3 sendok makan minyak dengan api sedang. Tumis bumbu halus di dalam wajan selama sekitar 5-8 menit hingga benar-benar harum, tidak langu, dan warna bumbunya menjadi gelap mengkilap. Matikan api dan angkat."
+      },
+      {
+        "text": "Tuangkan bumbu tumis ke dalam panci berisi rebusan iga yang sudah empuk. Aduk rata agar kaldu menyatu dengan bumbu kluwek. Bumbui dengan garam, gula pasir, dan kaldu sapi bubuk sesuai selera. Masak kembali selama 20 menit dengan api kecil agar kuahnya kental dan meresap ke dalam daging iga."
+      },
+      {
+        "text": "Koreksi rasa kuah agar gurih rempahnya terasa pas. Angkat dari kompor, lalu tuang Rawon ke dalam mangkuk saji. Beri taburan tauge pendek (kecambah rawon), irisan daun bawang, taburan bawang goreng, dan sajikan dengan telur asin serta sambal terasi matang."
       }
     ],
     "tips": [],
@@ -2578,7 +2668,7 @@ export const recipes: Recipe[] = [
       "mie",
       "kuah"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mie_Celor.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0027_0",
@@ -2590,7 +2680,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Siram mie dengan kuah santan kaldu ebi."
+        "text": "Cuci bersih daging sapi sandung lamur, lalu potong membentuk dadu dengan ketebalan 2 cm agar mudah empuk namun tetap memberikan tekstur. Rebus daging pertama kali dan buang air rebusan untuk membuang kotoran."
+      },
+      {
+        "text": "Haluskan bumbu inti yang terdiri dari rempah-rempah: selasih (kencur), kunyit sangrai, sedikit jahe, terasi bakar, bawang merah, bawang putih, dan sedikit cabai. Pastikan campuran ini sangat halus sebelum proses penumisan."
+      },
+      {
+        "text": "Siapkan wajan dengan minyak panas, tumis bumbu halus dengan api sedang hingga harum semerbak, perlahan masukkan daun salam dan serai memar. Aduk konsisten sampai campuran rempah ini berubah warna lebih gelap tanpa ada yang hangus."
+      },
+      {
+        "text": "Masukkan perlahan potongan daging sapi ke dalam tumisan bumbu, aduk perlahan agar permukaan daging mulai berubah warna memutih, tandanya tertutup dan tidak akan mengeluarkan banyak kaldu prematur."
+      },
+      {
+        "text": "Tuangkan sedikit demi sedikit kaldu sapi encer dan juga sentuhan santan encer. Rebus dengan api relatif kecil, tutup pancinya, dan masak perlahan selama kurang lebih satu jam hingga empuk."
+      },
+      {
+        "text": "Masuki sentuhan terakhir berupa belimbing wuluh yang diiris bulat dan irisan tomat hijau. Masak 5 menit saja hingga belimbing layu lalu diangkat. Sajikan ke dalam piring."
       }
     ],
     "tips": [],
@@ -2615,7 +2720,7 @@ export const recipes: Recipe[] = [
       "pedas",
       "ayam"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ayam_geprek.png",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0028_0",
@@ -2627,7 +2732,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Geprek ayam dengan sambal bawang."
+        "text": "Cuci dan bersihkan beras pera tahan lama, masak di pengukus atau periuk hingga menjadi nasi aron bertekstur kering, lalu diamkan."
+      },
+      {
+        "text": "Ulek cabai, bawang merah, terasi bakar, kencur dan terasi sedikit hingga cukup halus. Tumis sebentar dan matangkan bumbu."
+      },
+      {
+        "text": "Aduk nasi basah dengan bumbu yang sudah jadi, irisan ayam yang dipotong dadu atau suwiran tipis."
+      },
+      {
+        "text": "Tuang juga satu butir telur ayam ras ke dalam penggorengan yang dicincang acak-acak sebagai bahan orak-arik sebelum nasi masuk."
+      },
+      {
+        "text": "Goreng bersamaan bumbu pedas manis dan nasi putin merata sehingga berwarna kuning kecoklatan di seluruh permukaannya."
+      },
+      {
+        "text": "Goreng hingga kering, jika sudah matang tercium bau terasi panggang dan kemiri angkat ke atas alas piring bersih lengkapi dengan krupuk putih."
       }
     ],
     "tips": [],
@@ -2652,7 +2772,7 @@ export const recipes: Recipe[] = [
       "sate",
       "daging"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sate_Padang2.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0029_0",
@@ -2664,7 +2784,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus daging dan siram dengan kuah kental kuning."
+        "text": "Bersihkan nangka muda kualitas super, potong seukuran 5x5 cm. Rebus nangka dengan air mendidih sekitar 15 menit agar getahnya hilang, tiriskan dan sisihkan."
+      },
+      {
+        "text": "Siapkan panci beralas tebal, letakkan beberapa lembar daun jati, sobekan daun salam, dan lengkuas memar di dasar panci sebagai penyumbang warna dan penahan panas agar tidak mudah gosong."
+      },
+      {
+        "text": "Haluskan bawang merah, bawang putih, ketumbar sangrai, sedikit kemiri, dan lumuri dengan paduan gula merah sisir. Susun potongan nangka, ayam kampung, dan telur rebus utuh di atas dedaunan dasar secara rapat."
+      },
+      {
+        "text": "Larutkan bumbu halus, gula aren sisir yang banyak, sedikit garam ke dalam santan encer. Tuangkan santan tersebut ke dalam panci hingga menutupi seluruh nangka."
+      },
+      {
+        "text": "Tutup rapat panci dan masak gudeg menggunakan api paling kecil atau hangat-hangat kuku selama 3-4 jam tanpa diaduk-aduk. Biarkan daun jati mengeluarkan pigmen kemerahan yang akan diresap nangka dan perlahan menyusut menjadi tekstur empuk cokelat manis."
+      },
+      {
+        "text": "Jika airnya hampir habis, taburkan secukupnya santan kental, ratakan pelan agar tidak pecah. Teruskan masak selama 1-2 jam lagi secara tertutup semalaman (diinapkan) supaya rasanya lebih otentik dan teksturnya legit kesat di lidah."
       }
     ],
     "tips": [],
@@ -2689,7 +2824,7 @@ export const recipes: Recipe[] = [
       "goreng",
       "ikan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pecel_Lele_1.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0030_0",
@@ -2701,7 +2836,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Goreng lele dan sajikan dengan sambal tomat."
+        "text": "Kupas ubi jalar atau talas (bisa singkong), lalu potong kubus besar dengan pisau besar agar bentuknya tetap bertahan ketika dikukus bersama."
+      },
+      {
+        "text": "Kukus bongkahan ubi singkong yang dikuliti ini berdampingan dengan jagung pipil setengah tua hingga tiga perempat matang (kurang lebih 15 menit dalam kukusan)."
+      },
+      {
+        "text": "Didihkan sepanci besar air segar lalu masukkan perlahan kukusan ubi dan juga beras, aduk jangan hingga kerak terbentuk pada dasar panci."
+      },
+      {
+        "text": "Tumis bumbu halus bawang serta garam dalam tumisan secukupnya untuk memberi rasa. Masukkan irisan sayur kangkung utuh dan seledri secara perlahan."
+      },
+      {
+        "text": "Masak seluruh campuran bersama-sama di dalam air hingga mengental menyerupai pasta cair namun berserat tinggi dengan warna yang dominan pucat hijau dan putih."
+      },
+      {
+        "text": "Cicipi tekstur ubi, jika sudah empuk dan mengental layaknya bubur kaldu lezat matikan api dan hidangkan dengan ikan asin balado atau sambal roa sedap."
       }
     ],
     "tips": [],
@@ -2726,7 +2876,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "santan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nasi_uduk_netherlands.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0031_0",
@@ -2738,7 +2888,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak beras dengan santan dan serai."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama beras dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Nasi Uduk."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti beras, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Nasi Uduk dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -2763,7 +2928,7 @@ export const recipes: Recipe[] = [
       "pedas",
       "kuah"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Seblak_3.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0032_0",
@@ -2775,7 +2940,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus kerupuk dengan bumbu kencur pedas."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya kerupuk mentah dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan kerupuk mentah lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Seblak di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -2800,7 +2980,7 @@ export const recipes: Recipe[] = [
       "babi",
       "panggang"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Babi_guling.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1476224203421-9ce39362ea08?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0033_0",
@@ -2812,7 +2992,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Guling babi utuh dengan bumbu rempah Bali."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama babi utuh dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Babi Guling."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti babi utuh, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Babi Guling dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -2837,7 +3032,7 @@ export const recipes: Recipe[] = [
       "daging",
       "kuah manis"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/40._Selat_1.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0034_0",
@@ -2849,7 +3044,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus daging dengan kecap dan bumbu rempah."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging sapi dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Selat Solo."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging sapi, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Selat Solo dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -2874,7 +3084,7 @@ export const recipes: Recipe[] = [
       "ikan",
       "asam segar"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Pindang_Patin_Palembang_2.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0035_0",
@@ -2886,7 +3096,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak kuah pindang asam segar lalu masukkan patin."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ikan patin dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Pindang Patin."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ikan patin, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Pindang Patin dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -2911,7 +3136,7 @@ export const recipes: Recipe[] = [
       "goreng",
       "manis gurih"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ayam_goreng_kalasan.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1606683403264-fa065fa1a221?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0036_0",
@@ -2923,7 +3148,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Ungkep ayam dengan air kelapa lalu goreng."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Ayam Goreng Kalasan."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Ayam Goreng Kalasan dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -2948,7 +3188,7 @@ export const recipes: Recipe[] = [
       "kacang",
       "sayur"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ketoprak_Boplo.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0037_0",
@@ -2960,7 +3200,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Campur bahan dengan bumbu kacang bawang putih."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya tahu, bihun, tauge dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan tahu, bihun, tauge lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Ketoprak di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -2985,7 +3240,7 @@ export const recipes: Recipe[] = [
       "kambing",
       "kuah kental"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Tongseng_Dish.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0038_0",
@@ -2997,7 +3252,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Tumis dengan bumbu gulai dan kecap."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging kambing dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Tongseng Kambing."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging kambing, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Tongseng Kambing dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3022,7 +3292,7 @@ export const recipes: Recipe[] = [
       "sate",
       "pedas"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sate_taichan_jakarta.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0039_0",
@@ -3034,7 +3304,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Bakar ayam polos dan sajikan dengan sambal rawit."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama dada ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Sate Taichan."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti dada ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Sate Taichan dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3059,7 +3344,7 @@ export const recipes: Recipe[] = [
       "soto",
       "kuah bening"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Soto_Mie_Bogor_2.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0040_0",
@@ -3071,7 +3356,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus kuah kaldu sapi bening dan tuang ke mie."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging sapi & mie kuning dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Soto Mie Bogor."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging sapi & mie kuning, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Soto Mie Bogor dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3096,7 +3396,7 @@ export const recipes: Recipe[] = [
       "santan",
       "berkuah"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Indonesian_soup-Empal_Gentong-01.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0041_0",
@@ -3108,7 +3408,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak kuah santan kuning dengan daging sapi."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging sapi dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Empal Gentong."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging sapi, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Empal Gentong dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3133,7 +3448,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "gurih"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nasi_Kuning_Ibu_Sulastri.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0042_0",
@@ -3145,7 +3460,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak beras dengan santan dan kunyit."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama beras dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Nasi Kuning."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti beras, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Nasi Kuning dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3170,7 +3500,7 @@ export const recipes: Recipe[] = [
       "daging",
       "pedas"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Iga_Penyet.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0043_0",
@@ -3182,7 +3512,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Presto iga lalu goreng, penyet di atas sambal."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama iga sapi dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Iga Penyet."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti iga sapi, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Iga Penyet dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3207,7 +3552,7 @@ export const recipes: Recipe[] = [
       "sayur",
       "santan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sayur_lodeh.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0044_0",
@@ -3219,7 +3564,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak sayuran dalam kuah santan gurih."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama sayuran campur dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Sayur Lodeh."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti sayuran campur, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Sayur Lodeh dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3244,7 +3604,7 @@ export const recipes: Recipe[] = [
       "ayam",
       "santan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Opor_Ayam_Telur_Pindang.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0045_0",
@@ -3256,7 +3616,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak ayam dalam kuah santan kuning pucat."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Opor Ayam."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Opor Ayam dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3281,7 +3656,7 @@ export const recipes: Recipe[] = [
       "sate",
       "kambing"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sate_Buntel.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0046_0",
@@ -3293,7 +3668,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Buntel daging di tusuk sate dan bakar."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging kambing cincang dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Sate Buntel."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging kambing cincang, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Sate Buntel dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3318,7 +3708,7 @@ export const recipes: Recipe[] = [
       "kambing",
       "kuah pedas"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tengkleng.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0047_0",
@@ -3330,7 +3720,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak tulang kambing dengan kuah gulai encer."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama tulang kambing dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Tengkleng."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti tulang kambing, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Tengkleng dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3355,7 +3760,7 @@ export const recipes: Recipe[] = [
       "sayur",
       "segar"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Asinan_Betawi_2.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0048_0",
@@ -3367,7 +3772,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Campur dengan kuah bumbu kacang asam pedas."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama sayuran segar dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Asinan Betawi."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti sayuran segar, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Asinan Betawi dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3392,7 +3812,7 @@ export const recipes: Recipe[] = [
       "telur",
       "panggang"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kerak_telor_Betawi.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0049_0",
@@ -3404,7 +3824,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Panggang di wajan tanpa minyak dengan serundeng."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya beras ketan & telur bebek dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan beras ketan & telur bebek lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Kerak Telor di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -3429,7 +3864,7 @@ export const recipes: Recipe[] = [
       "ikan mentah",
       "segar"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Gohu_Ikan_in_Ternate.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1615141982883-c7da0e698d28?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0050_0",
@@ -3441,7 +3876,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Aduk ikan mentah dengan jeruk cui, daun kemangi, dan kenari."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ikan tuna segar dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Gohu Ikan."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ikan tuna segar, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Gohu Ikan dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3466,7 +3916,7 @@ export const recipes: Recipe[] = [
       "daging",
       "manis gurih"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Empal_Gepuk.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0051_0",
@@ -3478,7 +3928,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus daging, pukul-pukul, dan ungkep dengan bumbu manis guriih lalu goreng."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging sapi dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Gepuk Daging Sapi."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging sapi, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Gepuk Daging Sapi dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3503,7 +3968,7 @@ export const recipes: Recipe[] = [
       "soto",
       "rempah"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Soto_Banjar_ketupat.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0052_0",
@@ -3515,7 +3980,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus kaldu dengan rempah kayu manis dan cengkeh."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam kampung dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Soto Banjar."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam kampung, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Soto Banjar dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3540,7 +4020,7 @@ export const recipes: Recipe[] = [
       "goreng",
       "rempah daun"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Masakan_Khas_Kota_Aceh_Ayam_Tangkap.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0053_0",
@@ -3552,7 +4032,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Goreng ayam bersama daun kari, pandan, dan salam kojak."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Ayam Tangkap."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Ayam Tangkap dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3577,7 +4072,7 @@ export const recipes: Recipe[] = [
       "ikan asap",
       "pedas"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cakalang_fufu.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0054_0",
@@ -3589,7 +4084,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Suwir ikan dan tumis dengan sambal rica-rica."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ikan cakalang asap dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Cakalang Fufu."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ikan cakalang asap, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Cakalang Fufu dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3614,7 +4124,7 @@ export const recipes: Recipe[] = [
       "pedas",
       "kemangi"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Kakap_Woku.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0055_0",
@@ -3626,7 +4136,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak ayam dengan bumbu kuning pedas dan kemangi berlimpah."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Ayam Woku."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Ayam Woku dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3651,7 +4176,7 @@ export const recipes: Recipe[] = [
       "soto",
       "bubuk koya"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Soto_Lamongan.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0056_0",
@@ -3663,7 +4188,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Sajikan soto dengan taburan koya kerupuk udang."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Soto Lamongan."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Soto Lamongan dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3688,7 +4228,7 @@ export const recipes: Recipe[] = [
       "kukus",
       "santan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Actstykker_angaaende_cholera%2C_navnlig_epidemien_i_Christiania_i_1850_%28IA_b24748316%29.pdf/page1-775px-Actstykker_angaaende_cholera%2C_navnlig_epidemien_i_Christiania_i_1850_%28IA_b24748316%29.pdf.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0057_0",
@@ -3700,7 +4240,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Bungkus daging cincang dan santan dalam daun pisang lalu kukus."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging sapi cincang dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Gadon Daging."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging sapi cincang, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Gadon Daging dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3725,7 +4280,7 @@ export const recipes: Recipe[] = [
       "santan",
       "pedas"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sambal_Goreng_Kentang_Kering.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0058_0",
@@ -3737,7 +4292,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak krecek dalam kuah santan kemerahan pedas bersama kacang tolo."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama kerupuk rambak/krecek dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Sambal Goreng Krecek."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti kerupuk rambak/krecek, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Sambal Goreng Krecek dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3762,7 +4332,7 @@ export const recipes: Recipe[] = [
       "sate",
       "saus tempe"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ciri_Khas_Pedagang_Sate_Ayam_Ambal_Kebumen.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0059_0",
@@ -3774,7 +4344,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Sate ayam yang disajikan dengan saus tempe halus sebagai pengganti kacang."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Sate Ambal."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Sate Ambal dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3799,7 +4384,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "lengkap"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Plate_of_nasi_campur_%28Mandarin_Oriental_Hotel_Mahapahit%2C_Surabaya%2C_Indonesia%29.png",
+    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0060_0",
@@ -3811,7 +4396,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Tata nasi putih dengan sate lilit, lawar, ayam betutu, dan sambal matah."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama beras dan aneka lauk bali dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Nasi Campur Bali."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti beras dan aneka lauk bali, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Nasi Campur Bali dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3836,7 +4436,7 @@ export const recipes: Recipe[] = [
       "santan",
       "lontong"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Great_mosque_in_Medan_cropped.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0061_0",
@@ -3848,7 +4448,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Sajikan lontong dengan sayur gurih pedas, tauco, dan teri kacang."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama lontong, nangka muda, pakis dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Lontong Sayur Medan."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti lontong, nangka muda, pakis, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Lontong Sayur Medan dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3873,7 +4488,7 @@ export const recipes: Recipe[] = [
       "sayur",
       "gulai"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Gulai_ayam.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0062_0",
@@ -3885,7 +4500,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus daun singkong lalu masak dalam kuah gulai encer."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daun singkong muda dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Gulai Daun Singkong."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daun singkong muda, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Gulai Daun Singkong dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3910,7 +4540,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "kuah daging"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Grombyang_dan_Lontong_Dekem_-_panoramio.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0063_0",
@@ -3922,7 +4552,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Sajikan nasi dengan kuah daging berempah kluwek pucat dan irisan daging besar."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging kerbau/sapi dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Nasi Grombyang."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging kerbau/sapi, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Nasi Grombyang dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3947,7 +4592,7 @@ export const recipes: Recipe[] = [
       "sate",
       "manis"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Sate_Maranggi_1.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0064_0",
@@ -3959,7 +4604,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Marinasi daging dengan ketumbar dan kecap lalu bakar. Sajikan tanpa saus kacang."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging sapi dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Sate Maranggi."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging sapi, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Sate Maranggi dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -3984,7 +4644,7 @@ export const recipes: Recipe[] = [
       "lontong",
       "segar"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lontong_Balap.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0065_0",
@@ -3996,7 +4656,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Siram bahan dengan kuah bening kaldu dan taburan lentho serta sambal petis."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama tauge, tahu, lontong, lentho dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Lontong Balap."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti tauge, tahu, lontong, lentho, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Lontong Balap dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4021,7 +4696,7 @@ export const recipes: Recipe[] = [
       "ayam",
       "santan bakar"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Tumpeng_Kompas_1.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0066_0",
@@ -4033,7 +4708,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Ungkep ayam dengan bumbu santan pedas lalu bakar."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Ayam Iloni."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Ayam Iloni dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4058,7 +4748,7 @@ export const recipes: Recipe[] = [
       "ketupat",
       "tahu"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kupat_Tahu_12_Pas_Padalarang.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1627308595229-7830ceeb6386?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0067_0",
@@ -4070,7 +4760,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Siram bahan dengan kuah kacang encer atau kuah kecap bawang merah."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ketupat, tahu goreng, tauge dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Kupat Tahu."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ketupat, tahu goreng, tauge, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Kupat Tahu dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4095,7 +4800,7 @@ export const recipes: Recipe[] = [
       "berkuah",
       "iga"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sop_Konro.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0068_0",
@@ -4107,7 +4812,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak iga lama dengan bumbu rempah hitam berbahan kluwek."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama iga sapi utuh dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Sup Konro."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti iga sapi utuh, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Sup Konro dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4132,7 +4852,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "jagung kering"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nasi_dibentuk_bulat.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0069_0",
@@ -4144,7 +4864,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Kukus beras campuran jagung, sajikan dengan urapan dan ikan asin."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama beras dan beras jagung dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Nasi Jagung."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti beras dan beras jagung, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Nasi Jagung dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4169,7 +4904,7 @@ export const recipes: Recipe[] = [
       "sayur",
       "pedas segar"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pelecing_kangkung.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0070_0",
@@ -4181,7 +4916,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus kangkung, sajikan dengan sambal tomat terasi yang segar pedas."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama kangkung segar dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Plecing Kangkung."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti kangkung segar, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Plecing Kangkung dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4206,7 +4956,7 @@ export const recipes: Recipe[] = [
       "nasi",
       "daging kelapa"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Krawu_rice.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0071_0",
@@ -4218,7 +4968,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Sajikan nasi dengan suwiran daging empuk, serundeng, dan sambal terasi."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging sapi dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Nasi Krawu."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging sapi, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Nasi Krawu dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4243,7 +5008,7 @@ export const recipes: Recipe[] = [
       "rujak",
       "soto"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/id/a/a8/Rujak_soto.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0072_0",
@@ -4255,7 +5020,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Tuang kuah soto panas ke atas sayur rujak cingur petis."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama potongan babat dan tulang sapi dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Rujak Soto."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti potongan babat dan tulang sapi, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Rujak Soto dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4280,7 +5060,7 @@ export const recipes: Recipe[] = [
       "ayam",
       "panggang santan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Candi_Plaosan_Lor_%28North_Plaosan_Temple%29_from_Klaten%2C_Central_Java%2C_Indonesia_10.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0073_0",
@@ -4292,7 +5072,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Ungkep ayam dengan santan dan rempah lalu panggang."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Ayam Panggang Klaten."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Ayam Panggang Klaten dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4317,7 +5112,7 @@ export const recipes: Recipe[] = [
       "daging",
       "lapis kecap"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Katzs_deli_corned_beef.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0074_0",
@@ -4329,7 +5124,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak daging lapis dengan bumbu kecap manis legit."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging sapi dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Lapis Daging Sapi."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging sapi, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Lapis Daging Sapi dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4354,7 +5164,7 @@ export const recipes: Recipe[] = [
       "ayam",
       "asam segar"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Garang_asem_Pj.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0075_0",
@@ -4366,7 +5176,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Kukus ayam bersama belimbing wuluh dan santan berbungkus daun pisang."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Garang Asem Ayam."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Garang Asem Ayam dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4391,7 +5216,7 @@ export const recipes: Recipe[] = [
       "ikan asap",
       "santan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Indonesia_provinces_blank_map.svg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1548943487-a2e4142f5f19?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0076_0",
@@ -4403,7 +5228,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak ikan asap dalam kuah santan pedas gurih."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ikan pari/pe asap dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Ikan Pe Asap Kuah Santan."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ikan pari/pe asap, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Ikan Pe Asap Kuah Santan dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4428,7 +5268,7 @@ export const recipes: Recipe[] = [
       "tahu goreng",
       "petis"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tahu_telur_in_Banyuwangi.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1627308595229-7830ceeb6386?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0077_0",
@@ -4440,7 +5280,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Goreng tahu dan telur berbumbu lalu siram saus kacang petis."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama tahu, telur, lontong dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Tahu Tek."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti tahu, telur, lontong, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Tahu Tek dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4465,7 +5320,7 @@ export const recipes: Recipe[] = [
       "ayam",
       "bumbu rujak"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Ayam_bumbu_rujak.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0078_0",
@@ -4477,7 +5332,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Panggang ayam berbalut bumbu kemerahan manis pedas."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Ayam Bumbu Rujak."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Ayam Bumbu Rujak dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4502,7 +5372,7 @@ export const recipes: Recipe[] = [
       "kepiting",
       "kare"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Stamp_of_Indonesia_-_2004_-_Colnect_280263_-_Traditional_Food_-_Kare_rajungan.jpeg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0079_0",
@@ -4514,7 +5384,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak rajungan dengan bumbu kare pedas bersantan."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama kepiting rajungan dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Kare Rajungan."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti kepiting rajungan, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Kare Rajungan dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4551,7 +5436,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Remas/bejeg ayam suwir berbumbu bersama nasi dan rempah."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam suwir, nasi pucat dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Nasi Bejeg."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam suwir, nasi pucat, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Nasi Bejeg dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4576,7 +5476,7 @@ export const recipes: Recipe[] = [
       "mie",
       "kikil sapi"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mie_Kocok_Bandung.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0081_0",
@@ -4588,7 +5488,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Kocok mie lalu siram kuah tulang sapi kental dan potongan kikil."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama mie kuning lurus, kikil dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Mie Kocok."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti mie kuning lurus, kikil, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Mie Kocok dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4613,7 +5528,7 @@ export const recipes: Recipe[] = [
       "sate",
       "sapi cincang"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Sate_Ponorogo.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0082_0",
@@ -4625,7 +5540,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Buntel/lilit sapi cincang dan bakar, siram dengan saus kecap."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama daging sapi cincang berlapis lemak dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Sate Buntel Sapi."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti daging sapi cincang berlapis lemak, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Sate Buntel Sapi dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4650,7 +5580,7 @@ export const recipes: Recipe[] = [
       "soto berkuah",
       "udang"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Great_mosque_in_Medan_cropped.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0083_0",
@@ -4662,7 +5592,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Siram udang segar dengan kuah kaldu rempah tanpa santan."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama udang, bihun dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Soto Kesawan."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti udang, bihun, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Soto Kesawan dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4687,7 +5632,7 @@ export const recipes: Recipe[] = [
       "nasi tradisional",
       "singkong"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tiwul-hariadhi.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1555126634-ae231a4a8c2a?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0084_0",
@@ -4699,7 +5644,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Kukus tepung tiwul dan sajikan bersama parutan kelapa / lauk pauk."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama tepung gaplek singkong dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Nasi Tiwul."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti tepung gaplek singkong, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Nasi Tiwul dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4724,7 +5684,7 @@ export const recipes: Recipe[] = [
       "bumbu kacang",
       "jajanan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kadaharan_urang_sunda.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0085_0",
@@ -4736,7 +5696,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Beri irisan potongan ketupat, tahu dan telor, lalu siram bumbu kacang kental."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ketupat, tahu, kentang dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Doclang."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ketupat, tahu, kentang, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Doclang dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4761,7 +5736,7 @@ export const recipes: Recipe[] = [
       "dadar tepung",
       "santan gurih"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Burgo_1.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1476224203421-9ce39362ea08?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0086_0",
@@ -4773,7 +5748,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Siram potongan dadar gulung tepung beras dengan kuah santan dan kaldu ikan."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama tepung beras dadar gulung dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Burgo."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti tepung beras dadar gulung, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Burgo dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4798,7 +5788,7 @@ export const recipes: Recipe[] = [
       "buah",
       "asam manis pendamping"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Orationes_Nicolai_Avancini_in_tres_partes_divisae_quarum_prima_continet_orationes%2C_De_Deo%2C_et_Deohomine%3B_secunda%2C_De_B._Virgine%2C_et_Sanctis_%28IA_bub_gb_EVcTAAAAQAAJ%29.pdf/page1-625px-thumbnail.pdf.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0087_0",
@@ -4810,7 +5800,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak nanas dengan bumbu kayu manis, cengkeh dan cuka."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama buah nanas matang dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Pacri Nanas."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti buah nanas matang, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Pacri Nanas dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4835,7 +5840,7 @@ export const recipes: Recipe[] = [
       "jengkol",
       "kecap manis"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Resep_cara_membuat_semur_jengkol_pedas_yang_yummy.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1493770348161-369560ae357d?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0088_0",
@@ -4847,7 +5852,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus empuk dengan abu, geprek pipih, lalu masak dalam semur kecap pekat."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama jengkol tua yang diempukkan dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Semur Jengkol."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti jengkol tua yang diempukkan, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Semur Jengkol dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4872,7 +5892,7 @@ export const recipes: Recipe[] = [
       "iga tulang",
       "segar nanas"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Pindang_Patin_Palembang_2.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1476224203421-9ce39362ea08?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0089_0",
@@ -4884,7 +5904,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak iga tulang dengan nanas segar dan tomat ceri serta bumbu pedas asam manis."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama tulang rusuk sapi dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Pindang Tulang."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti tulang rusuk sapi, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Pindang Tulang dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4909,7 +5944,7 @@ export const recipes: Recipe[] = [
       "ayam pucat",
       "minang kelapa"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ayam_pop.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0090_0",
@@ -4921,7 +5956,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Ungkep dengan air kelapa pucat, lalu goreng sekilas saja tidak garing."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama Ayam kampung tanpa kulit dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Ayam Pop."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti Ayam kampung tanpa kulit, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Ayam Pop dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -4946,7 +5996,7 @@ export const recipes: Recipe[] = [
       "kue manis",
       "jajanan pasar"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kue_pancong_di_pasar_Rantepao.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0091_0",
@@ -4958,7 +6008,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Diamkan adonan pukis sampai mengembang, lalu tuang pada cetakan panas."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya tepung terigu, santan, ragi dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan tepung terigu, santan, ragi lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Kue Pukis di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -4983,7 +6048,7 @@ export const recipes: Recipe[] = [
       "ketan",
       "kue asin"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lemper.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0092_0",
@@ -4995,7 +6060,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Kukus ketan dengan santan, isikan ayam suwir, lalu bungkus daun pisang."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya ketan, ayam suwir berbumbu dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan ketan, ayam suwir berbumbu lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Lemper Ayam di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -5020,7 +6100,7 @@ export const recipes: Recipe[] = [
       "kue basah",
       "santan gurih"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jajan_Pasar_in_Jakarta_edit.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0093_0",
@@ -5032,7 +6112,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Kukus adonan hijau pandan lalu timpa dengan adonan putih santan gurih manis."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya santan, pandan, telur dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan santan, pandan, telur lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Kue Lumpur Surga di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -5057,7 +6152,7 @@ export const recipes: Recipe[] = [
       "manis",
       "ubi jalar"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/JackfruitKolak.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0094_0",
@@ -5069,7 +6164,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Bentuk bulat adonan ubi sagu, rebus, lalu siram dengan kuah gula merah santan."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya ubi jalar kuning, tepung sagu dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan ubi jalar kuning, tepung sagu lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Biji Salak (Kolak) di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -5094,7 +6204,7 @@ export const recipes: Recipe[] = [
       "gurih kenyal",
       "tanpa ikan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Pempek_Kuah_Cuko.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0095_0",
@@ -5106,7 +6216,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus adonan pempek tanpa ikan ini, lalu goreng dan sajikan dengan cuko merah."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya tepung sagu, terigu, tanpa ikan dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan tepung sagu, terigu, tanpa ikan lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Pempek Dos di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -5131,7 +6256,7 @@ export const recipes: Recipe[] = [
       "kenyal",
       "gorengan"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cireng_di_kafe.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0096_0",
@@ -5143,7 +6268,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Goreng pipih adonan tapioka biang lalu cocol dengan bumbu rujak pedas manis asam."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya tepung tapioka, bawang putih dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan tepung tapioka, bawang putih lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Cireng Bumbu Rujak di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -5168,7 +6308,7 @@ export const recipes: Recipe[] = [
       "goreng ranyah",
       "jajanan gurih"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sayur_lodeh.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0097_0",
@@ -5180,7 +6320,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Gilas kulit pastel, isikan sayur basah dan telur, jepit ulir pinggirnya dan goreng."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya tepung terigu, wortel, bihun, telur dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan tepung terigu, wortel, bihun, telur lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Pastel Sayur Telur di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -5205,7 +6360,7 @@ export const recipes: Recipe[] = [
       "manis legit",
       "kue basah"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Klepon_Khas_Tulungagung.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0098_0",
@@ -5217,7 +6372,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Isi bulatan ketan hijau pandan dengan irisan gula merah, rebus sampai mengapung, balur parutan kelapa."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya tepung ketan, pandan, gula merah dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan tepung ketan, pandan, gula merah lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Klepon Ketan di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -5242,7 +6412,7 @@ export const recipes: Recipe[] = [
       "gorengan",
       "gurih creamy"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Risole2.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1529973625058-a665431328fb?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0099_0",
@@ -5254,7 +6424,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Gulung isian mayo daging telur di kulit risol, balur tepung roti lalu goreng."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya kulit lumpia/risol, mayo, smoke beef, telur dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan kulit lumpia/risol, mayo, smoke beef, telur lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Risol Mayo di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -5291,7 +6476,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Kukus adonan pandan beras lalu tuang adonan santan gurih di atasnya."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya tepung beras, santan, pandan dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan tepung beras, santan, pandan lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Kue Talam Pandan di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -5328,7 +6528,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Cetak adonan beras hijau pandan di air es, siram kuah santan dan sirup gula merah wangi nangka."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama tepung beras, pandan, santan, gula merah sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Es Dawet Ayu yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Es Dawet Ayu tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni tepung beras, pandan, santan, gula merah ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Es Dawet Ayu segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5353,7 +6568,7 @@ export const recipes: Recipe[] = [
       "wedang hangat",
       "jahe"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pedagang_Wedang_Ronde_DiAlun_Alun_Kebumen.jpg/1280px-Pedagang_Wedang_Ronde_DiAlun_Alun_Kebumen.jpg",
+    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0102_0",
@@ -5365,7 +6580,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Sajikan bulatan ketan isi kacang kupas dalam kuah jahe gula merah hangat."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama tepung ketan, kacang tanah, jahe sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Wedang Ronde yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Wedang Ronde tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni tepung ketan, kacang tanah, jahe ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Wedang Ronde segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5402,7 +6632,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Campur serutan melon dan kelapa dengan perasan jeruk nipis dan sirup melon segar."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama kelapa muda, melon, jeruk nipis, selasih sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Es Kuwut yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Es Kuwut tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni kelapa muda, melon, jeruk nipis, selasih ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Es Kuwut segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5439,7 +6684,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Balut pisang kukus dengan dadar hijau pandan, sajikan dengan bubur sumsum dan sirup pisang ambon merah."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama pisang raja, tepung beras, pandan, sirup DHT sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Es Pisang Ijo yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Es Pisang Ijo tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni pisang raja, tepung beras, pandan, sirup DHT ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Es Pisang Ijo segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5464,7 +6724,7 @@ export const recipes: Recipe[] = [
       "wedang",
       "rempah kencang"
     ],
-    "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandrek_Bandung.JPG/1280px-Bandrek_Bandung.JPG",
+    "heroImageUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=800&q=80",
     "ingredients": [
       {
         "id": "ing_menusa_0105_0",
@@ -5476,7 +6736,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus jahe memar dan berbagai rempah kayu manis dengan gula merah, bisa disajikan dengan kerukan kelapa."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama jahe bakar, gula merah, kayu manis, cengkeh sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Bandrek yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Bandrek tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni jahe bakar, gula merah, kayu manis, cengkeh ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Bandrek segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5513,7 +6788,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Potong kotak adonan hunkwe lapis tiga warna, siram kuah santan dan sirup merah es."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama tepung hunkwe, santan, sirup merah sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Es Selendang Mayang yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Es Selendang Mayang tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni tepung hunkwe, santan, sirup merah ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Es Selendang Mayang segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5550,7 +6840,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus atau seduh dedaunan rempah kering dan kayu secang sampai air kemerahan hangat."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama daun cengkeh, kayu secang, jahe, daun pala sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Wedang Uwuh yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Wedang Uwuh tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni daun cengkeh, kayu secang, jahe, daun pala ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Wedang Uwuh segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5587,7 +6892,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Cetak cendol dari adonan beras hunkwe hijau pekat, sajikan bersama santan encer dan tebalnya kinca gula aren."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama tepung hunkwe/beras, pandan suji sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Es Cendol yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Es Cendol tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni tepung hunkwe/beras, pandan suji ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Es Cendol segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5624,7 +6944,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak perlahan santan bersama gula aren, sedikit jahe, dan sejumput bubuk kopi lalu saring."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama santan, kopi hitam bubuk, gula aren, jahe sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Bajigur yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Bajigur tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni santan, kopi hitam bubuk, gula aren, jahe ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Bajigur segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5661,7 +6996,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Kocok kuning telur dan gula sampai mengembang/kental, seduh dengan teh panas pekat dan kucuran nipis."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama teh hitam pekat, kuning telur ayam kampung, jeruk nipis sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Teh Talua (Teh Telur) yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Teh Talua (Teh Telur) tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni teh hitam pekat, kuning telur ayam kampung, jeruk nipis ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Teh Talua (Teh Telur) segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5699,7 +7049,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus ubi dan pandan dengan gula aren sampai empuk, masukkan pisang matang dan santan kental, aduk mendidih."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama pisang kepok, ubi kuning, gula aren, santan, pandan sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Kolak Pisang Ubi yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Kolak Pisang Ubi tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni pisang kepok, ubi kuning, gula aren, santan, pandan ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Kolak Pisang Ubi segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5737,7 +7102,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Potong dadu semua buah, campur dengan bongkahan es, tuang sirup merah dan susu kental pekat."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama aneka buah (semangka, melon, apel, anggur), sirup cocopandan, susu kental manis sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Es Buah Segar yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Es Buah Segar tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni aneka buah (semangka, melon, apel, anggur), sirup cocopandan, susu kental manis ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Es Buah Segar segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5775,7 +7155,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Sajikan potongan buah dan jelly kenyal dengan kuah susu evaporasi kental yang manis gurih dingin."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama naga merah, alpukat, stroberi, jelly, susu evaporasi sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Sop Buah Kuah Susu yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Sop Buah Kuah Susu tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni naga merah, alpukat, stroberi, jelly, susu evaporasi ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Sop Buah Kuah Susu segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -5813,7 +7208,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Buat bulatan kenyal dari ubi ungu, rebus merapung lalu padukan dengan kinca gula merah dan saus santan gurih."
+        "text": "Mulai dengan mempersiapkan area kerja dan menimbang seluruh bahan dengan akurat, khususnya ubi ungu, tepung sagu, gula merah, santan kental dan bahan tambahan. Ketelitian dalam takaran sangat krusial dalam pembuatan kudapan ini agar tekstur akhir yang dihasilkan bisa konsisten, baik itu kenyal, lembut, maupun renyah."
+      },
+      {
+        "text": "Siapkan adonan dasar dengan mencampur bahan kering dan bahan basah secara bertahap. Gunakan teknik pengadukan yang lembut namun rata agar tidak terbentuk gumpalan (lumpy). Jika resep memerlukan proses fermentasi atau pendiaman, pastikan adonan disimpan di tempat yang hangat selama waktu yang ditentukan."
+      },
+      {
+        "text": "Siapkan peralatan memasak utama seperti cetakan khusus, kukusan yang sudah beruap banyak, atau wajan penggorengan dengan minyak yang cukup. Untuk teknik goreng, pastikan minyak sudah mencapai suhu yang stabil agar kudapan tidak menyerap minyak berlebih saat dimasukkan."
+      },
+      {
+        "text": "Ambil sebagian adonan atau bahan ubi ungu, tepung sagu, gula merah, santan kental lalu bentuk atau masukkan ke dalam cetakan dengan hati-hati. Jika menggunakan isian seperti bahan tambahan, letakkan tepat di tengah agar saat matang nanti posisinya simetris dan bumbu atau pemanis tidak bocor keluar dari kulit adonan."
+      },
+      {
+        "text": "Proses pematangan dilakukan dengan api sedang yang stabil. Jika dikukus, jangan terlalu sering membuka tutup kukusan agar uap panas tidak terbuang. Jika digoreng, balik kudapan hanya sekali saja saat satu sisi sudah terlihat kokoh dan berwarna kuning keemasan yang cantik."
+      },
+      {
+        "text": "Setelah matang, angkat dan tiriskan kudapan di atas rak kawat atau kertas penyerap minyak selama beberapa menit agar suhunya stabil dan teksturnya lebih set. Sajikan Biji Salak Ubi Ungu di atas piring saji yang bersih. Kudapan ini sangat cocok dinikmati sebagai teman minum teh atau kopi di sore hari."
       }
     ],
     "tips": [],
@@ -5852,7 +7262,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Tumis bawang bombay, masukkan ayam cepat matang, bumbui kecap tebal berkaramel, masak sebentar di waktu sahur."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam potong kecil, kecap manis, bawang bombay dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Ayam Kecap Sahur Praktis."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam potong kecil, kecap manis, bawang bombay, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Ayam Kecap Sahur Praktis dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -5891,7 +7316,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Orak arik telur lembut (jangan terlalu kering), angkat. Tumis potongan tomat sampai layu berair, masukkan kembali telur lalu aduk rata saus tiram."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama telur ayam kocok, buah tomat, saus tiram, daun bawang dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Tumis Telur Tomat Sahur."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti telur ayam kocok, buah tomat, saus tiram, daun bawang, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Tumis Telur Tomat Sahur dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -5929,7 +7369,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Masak ayam kampung perlahan di bumbu kuning kuah santan cair memanjang sampai empuk, kentalkan dengan santan tebal di akhir."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ayam kampung, santan cair, santan kental, bumbu kuning dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Opor Ayam Lebaran."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ayam kampung, santan cair, santan kental, bumbu kuning, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Opor Ayam Lebaran dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -5967,7 +7422,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Goreng dadu kentang dan rebus ati ampela. Tumis bumbu pedas manis pekat bersantan, masukkan hati dan kentang bersama petai."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama ati ampela ayam, kentang dadu, cabai merah petai dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Sambal Goreng Ati Kentang."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti ati ampela ayam, kentang dadu, cabai merah petai, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Sambal Goreng Ati Kentang dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -6005,7 +7475,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Tata semua isian campur kaya tekstur, taburi es serut gunung lantas guyur dengan sirup frambozen dan kental manis."
+        "text": "Langkah awal, persiapkan seluruh komponen penyusun minuman segar ini, terutama cincau hitam, tape singkong, kolang-kaling, es serut, sirup sebagai bahan inti dan bahan tambahan sebagai pelengkap. Pastikan kualitas bahan dalam kondisi prima, misalnya buah yang matang sempurna atau rempah yang masih kuat aromanya, demi menghasilkan citarasa Es Campur Sirup Merah yang otentik."
+      },
+      {
+        "text": "Jika masakan berupa minuman hangat, siapkan panci berisi air bersih sesuai takaran dan didihkan di atas api sedang. Masukkan komponen rempah atau bahan dasar satu per satu sembari diaduk perlahan hingga sari dan warnanya keluar secara maksimal ke dalam air rebusan."
+      },
+      {
+        "text": "Untuk varian minuman dingin, siapkan sirup atau pemanis alami dari gula aren atau gula pasir yang sudah dicairkan. Pastikan tekstur cairan manis ini cukup kental agar saat dicampur dengan es batu nantinya, rasa manis Es Campur Sirup Merah tidak menjadi terlalu hambar akibat proses pencairan es."
+      },
+      {
+        "text": "Masukkan bahan isian utama yakni cincau hitam, tape singkong, kolang-kaling, es serut, sirup ke dalam wadah atau gelas saji yang sudah disiapkan. Jika bahan perlu diolah terlebih dahulu (seperti dipotong-potong atau diserut), lakukan dengan ukuran yang seragam agar tampilannya terlihat cantik dan profesional saat disajikan."
+      },
+      {
+        "text": "Tuangkan perlahan kuah atau cairan pendukung (seperti santan gurih, susu, atau air rempah) ke dalam gelas. Pastikan perbandingan antara isian dan cairan seimbang, sehingga setiap tegukan memberikan paduan rasa yang sempurna antara manis, gurih, dan kesegaran khas Nusantara."
+      },
+      {
+        "text": "Sebagai sentuhan akhir, tambahkan bongkahan es batu secukupnya atau sajikan dalam keadaan panas mengepul sesuai jenisnya. Hiasi bagian atas minuman dengan garnish sederhana seperti daun pandan atau irisan jeruk nipis untuk memperkuat aroma. Nikmati Es Campur Sirup Merah segera selagi suhu dan kesegarannya masih terjaga secara optimal."
       }
     ],
     "tips": [],
@@ -6043,7 +7528,22 @@ export const recipes: Recipe[] = [
     ],
     "steps": [
       {
-        "text": "Rebus sayuran padat dan sosis secara bertahap dalam bening kaldu sedap bernuansa pala dan merica untuk menyegarkan perut sahur."
+        "text": "Tahap pertama, siapkan dan bersihkan secara saksama semua bahan utama yang dibutuhkan, terutama wortel, buncis, kentang, sosis sapi, kaldu ayam dan bahan tambahan. Pastikan semua bahan yang akan dimasak dalam keadaan segar dan higienis. Potong-potong bahan sesuai selera atau panduan resep (misalnya diiris tipis, dipotong dadu, atau dibiarkan utuh), agar nantinya bumbu dapat meresap lebih mudah saat proses pematangan Sayur Sop Sosis Sahur."
+      },
+      {
+        "text": "Selanjutnya, siapkan bumbu halus pokok yang akan menjadi dasar cita rasa masakan ini. Anda dapat menghaluskan bumbu dasar menggunakan ulekan batu tradisional agar minyak alami rempah keluar maksimal, atau menggunakan blender dengan sedikit minyak goreng. Hindari menambahkan terlalu banyak air saat menghaluskan agar bumbu tidak menjadi encer dan lebih cepat matang saat ditumis."
+      },
+      {
+        "text": "Panaskan 3 hingga 4 sendok makan minyak goreng di dalam wajan berukuran memadai menggunakan nyala api sedang. Setelah minyak dirasa cukup panas, masukkan perlahan bumbu yang telah dihaluskan tadi. Tumis secara teratur selama 4-6 menit hingga bumbu terlihat layu, pinggirannya sedikit berubah kecoklatan, dan mengeluarkan aroma wangi yang khas menyebar ke seluruh dapur. Pastikan terus diaduk bagian bawahnya agar tidak ada sisi yang hangus."
+      },
+      {
+        "text": "Setelah bumbu dipastikan matang sempurna dan tidak mengeluarkan aroma langu sisa rempah mentah, masukkan perlahan bahan utama, seperti wortel, buncis, kentang, sosis sapi, kaldu ayam, ke dalam wajan. Aduk-aduk secara konsisten namun perlahan agar seluruh permukaan bahan masakan tertutup rata sepenuhnya oleh bumbu tumisan. Masak dan aduk beberapa saat hingga tekstur atau warna bahan mulai menunjukkan perubahan awal, pertanda bumbu mulai merasuk."
+      },
+      {
+        "text": "Tuangkan cairan pengempuk atau pembentuk kuah (seperti air bersih, kaldu, atau santan jika resep mengharuskan) ke dalam wajan secukupnya sesuai takaran. Tambahkan juga bumbu perasa standar yakni sejumput garam, gula, dan penyedap jika suka. Kecilkan api satu tingkat, lalu tutup wajan atau panci tersebut. Biarkan masakan mendidih secara perlahan (simmering) selama 15 hingga 25 menit. Selama waktu ini, buka tutup sesekali untuk mengaduk ringan agar bahan di dasar tidak lengket atau gosong."
+      },
+      {
+        "text": "Sebagai langkah terakhir, buka tutup wajan dan periksa kembali tingkat kematangan serta keempukan bahan secara menyeluruh. Cermati indikator visual matang, seperti volume kuah yang menyusut mengental atau minyak yang mulai terpisah dari bumbu. Lakukan koreksi rasa dengan mencicipi kuahnya. Bila dirasa sudah seimbang dan pas di lidah, matikan kompor segera. Pindahkan Sayur Sop Sosis Sahur dengan hati-hati ke dalam mangkuk atau piring saji, hias permukaannya, dan hidangkan selagi hangat untuk dinikmati."
       }
     ],
     "tips": [],
@@ -6056,5 +7556,3 @@ export const recipes: Recipe[] = [
     }
   }
 ];
-
-

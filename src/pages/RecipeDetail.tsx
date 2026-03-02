@@ -157,10 +157,28 @@ export function RecipeDetail() {
     }
   };
 
+  const containerVariants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: { staggerChildren: 0.1 }
+    }
+  };
+
+  const itemVariants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: { opacity: 1, y: 0 }
+  };
+
   return (
-    <div className="pb-6 bg-white min-h-full max-w-md md:max-w-2xl lg:max-w-4xl mx-auto relative overflow-hidden">
+    <motion.div
+      initial="hidden"
+      animate="visible"
+      variants={containerVariants}
+      className="pb-6 bg-white min-h-full max-w-md md:max-w-2xl lg:max-w-4xl mx-auto relative overflow-hidden"
+    >
       {/* Header Image & Back Button */}
-      <div className="relative h-72 w-full bg-stone-200">
+      <motion.div variants={itemVariants} className="relative h-72 w-full bg-stone-200">
         <img
           src={recipe.heroImageUrl}
           alt={recipe.title}
@@ -185,11 +203,11 @@ export function RecipeDetail() {
           </div>
           <h1 className="text-2xl font-bold text-white leading-tight">{recipe.title}</h1>
         </div>
-      </div>
+      </motion.div>
 
       <div className="p-4">
         {/* Quick Info Row */}
-        <div className="flex justify-between items-center py-4 border-b border-stone-100 mb-4">
+        <motion.div variants={itemVariants} className="flex justify-between items-center py-4 border-b border-stone-100 mb-4">
           <div className="flex flex-col items-center gap-1">
             <Clock className="w-5 h-5 text-stone-400" />
             <span className="text-xs font-medium text-stone-600">{recipe.totalTimeMin} mnt</span>
@@ -204,10 +222,10 @@ export function RecipeDetail() {
             <Flame className="w-5 h-5 text-orange-500" />
             <span className="text-xs font-medium text-stone-600">{recipe.difficulty}</span>
           </div>
-        </div>
+        </motion.div>
 
         {/* Action Buttons */}
-        <div className="flex flex-col gap-3 mb-6">
+        <motion.div variants={itemVariants} className="flex flex-col gap-3 mb-6">
           <div className="flex gap-3">
             <Button
               className="flex-1 h-12 rounded-xl text-base font-bold shadow-sm"
@@ -232,9 +250,9 @@ export function RecipeDetail() {
             <Copy className="w-4 h-4 mr-2" />
             Salin Bahan
           </Button>
-        </div>
+        </motion.div>
 
-        <div className="flex gap-4 justify-around mb-8">
+        <motion.div variants={itemVariants} className="flex gap-4 justify-around mb-8">
           <button onClick={handleSave} className="flex flex-col items-center gap-1.5 text-stone-500 hover:text-orange-500 transition-colors">
             <div className={cn("p-3 rounded-full bg-stone-50", isSaved && "bg-orange-50 text-orange-500")}>
               <Bookmark className={cn("w-5 h-5", isSaved && "fill-current")} />
@@ -253,18 +271,18 @@ export function RecipeDetail() {
             </div>
             <span className="text-[10px] font-medium uppercase tracking-wider">Bagikan</span>
           </button>
-        </div>
+        </motion.div>
 
         {/* Description */}
-        <div className="mb-8">
+        <motion.div variants={itemVariants} className="mb-8">
           <h2 className="text-lg font-bold text-stone-900 mb-2">Tentang Resep Ini</h2>
           <p className="text-stone-600 leading-relaxed text-sm">
             {recipe.description}
           </p>
-        </div>
+        </motion.div>
 
         {/* Ingredients */}
-        <section className="mb-8">
+        <motion.section variants={itemVariants} className="mb-8">
           <div className="flex justify-between items-end mb-4">
             <h2 className="text-xl font-bold text-stone-900">Bahan-bahan</h2>
 
@@ -301,11 +319,11 @@ export function RecipeDetail() {
               </li>
             ))}
           </ul>
-        </section>
+        </motion.section>
 
         {/* Tips Anti-Gagal */}
         {recipe.tips.length > 0 && (
-          <div className="bg-orange-50 border border-orange-100 rounded-2xl p-4 mb-8">
+          <motion.div variants={itemVariants} className="bg-orange-50 border border-orange-100 rounded-2xl p-4 mb-8">
             <h3 className="flex items-center gap-2 font-bold text-orange-800 mb-3 text-sm">
               <Info className="w-4 h-4" />
               Tips Anti-Gagal
@@ -318,11 +336,11 @@ export function RecipeDetail() {
                 </li>
               ))}
             </ul>
-          </div>
+          </motion.div>
         )}
 
         {/* Steps Preview */}
-        <section className="mb-8">
+        <motion.section variants={itemVariants} className="mb-8">
           <h2 className="text-xl font-bold text-stone-900 mb-4">Langkah-langkah</h2>
           <div className="space-y-4">
             {recipe.steps.map((step, idx) => (
@@ -358,10 +376,10 @@ export function RecipeDetail() {
             <Play className="w-6 h-6 mr-2 fill-current" />
             Mulai Mode Masak Sekarang
           </Button>
-        </section>
+        </motion.section>
 
         {/* Nutrition Info */}
-        <section className="mb-8 relative overflow-hidden bg-gradient-to-br from-green-50 to-emerald-50 rounded-3xl p-6 border border-green-100">
+        <motion.section variants={itemVariants} className="mb-8 relative overflow-hidden bg-gradient-to-br from-green-50 to-emerald-50 rounded-3xl p-6 border border-green-100">
           {/* Decorative Stickers */}
           <motion.div
             animate={{ y: [0, -10, 0], rotate: [12, 15, 12] }}
@@ -508,18 +526,18 @@ export function RecipeDetail() {
               </div>
             )}
           </div>
-        </section>
+        </motion.section>
 
         {/* Related Recipes */}
         {relatedRecipes.length > 0 && (
-          <section className="mb-8 pt-6 border-t border-stone-100">
+          <motion.section variants={itemVariants} className="mb-8 pt-6 border-t border-stone-100">
             <h2 className="text-xl font-bold text-stone-900 mb-4">Resep Terkait</h2>
             <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
               {relatedRecipes.map(related => (
                 <RecipeCard key={related.id} recipe={related} />
               ))}
             </div>
-          </section>
+          </motion.section>
         )}
       </div>
 
@@ -660,6 +678,6 @@ export function RecipeDetail() {
           </div>
         </div>
       )}
-    </div>
+    </motion.div>
   );
 }
